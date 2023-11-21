@@ -25,6 +25,8 @@ website:
         href: "notes.md"
       - text: "Slides"
         href: "slides/index.md"
+      - text: "References"
+        href: "references.md"
 
 
 format:
