@@ -1,5 +1,7 @@
 format:
   revealjs:
+    from: "markdown+emoji"
+
     toc: false
     overview: true
 
