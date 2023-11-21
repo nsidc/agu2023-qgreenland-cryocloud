@@ -1,6 +1,6 @@
 ---
 title: "QGreenland & CryoCloud: An open GIS collaboration for education and research"
-subtitle: "[AGU2023 session C22A-07](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1365725)"
+subtitle: "[AGU2023 presentation C22A-07](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1365725)"
 author:
   - name: "Matt Fisher"
     orcid: "0000-0003-3260-5445"
