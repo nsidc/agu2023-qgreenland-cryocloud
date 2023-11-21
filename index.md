@@ -1,3 +1,19 @@
+---
+title: "QGreenland & CryoCloud: An open GIS collaboration for education and research"
+subtitle: "[AGU2023 session C22A-07](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1365725)"
+author:
+  - name: "Matt Fisher"
+    orcid: "0000-0003-3260-5445"
+  - name: "Twila Moon"
+    orcid: "0000-0003-0968-7008"
+  - name: "Alyse Thurber"
+    orcid: "0009-0003-2026-0002"
+  - name: "Tasha Snow"
+    orcid: "0000-0001-5697-5470"
+  - name: "Trey Stafford"
+    orcid: "0000-0002-5510-0055"
+---
+
 ## Abstract
 
 Providing training on inherently-technical subjects can be confounded by the wide
