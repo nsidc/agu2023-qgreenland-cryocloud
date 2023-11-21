@@ -22,7 +22,7 @@ website:
     search: true
     contents:
       - text: "Notes"
-        href: "notes.md"
+        href: "notes/index.md"
       - text: "Slides"
         href: "slides/index.md"
       - text: "References"

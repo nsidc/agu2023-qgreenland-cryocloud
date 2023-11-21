@@ -1,15 +1,16 @@
 ---
-title: "Planning notes"
+title: "Outline draft 1"
 ---
 
 ## TODO / raw thoughts
 
 * Use _POP_ method? Appropriate?
+* Talk about QGIS in the cloud
 
 
 ## Intro
 
-Lay out the problem...
+Lay out the community's problem...
 
 * Planning & administering technical training is hard
 
@@ -64,7 +65,7 @@ Lay out the problem...
     * Jupyter Lab: A comprehensive browser-based environment for using Jupyter
       Notebooks, with everything else (terminal, image previewer, tabular data editor,
       ...) you might need.
-    * JupyterHub: JupyterLab deployed in the cloud
+    * JupyterHub: JupyterLab deployed in the cloud so anyone can create a Lab on demand.
 
 * Working with an existing commmunity benefitted both:
     * Running workshops helps the CryoCloud team gather data
@@ -77,7 +78,15 @@ Lay out the problem...
         * With: $0 + 2-3 days setup + $75 cloud operating expenses
 
 * _TODO:_ Point to CryoCloud's & Openscapes' sessions/tutorials.
+    * Twila: Last slide, or slide before conclusion. QR code? Also use the identifier
+      for the presentation. Poster number, title.
 * _TODO:_ "Sounds like you knew the right people to get this opportunity to use a
   JupyterHub." Yes! There are multiple communities running hubs, however, and I think
   many are looking to similarly exercise their capabilities. Look at the list of hubs
   run by 2i2c for opportunities to collaborate.
+
+
+## Outcome bigger picture
+
+* Twila: Highlight how other people can benefit from what we learned.
+    * 
