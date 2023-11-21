@@ -1,0 +1,27 @@
+format:
+  revealjs:
+    toc: false
+    overview: true
+
+    # Themes:
+    #   beige
+    #   blood
+    #   dark
+    #   default
+    #   league
+    #   moon
+    #   night
+    #   serif
+    #   simple
+    #   sky
+    #   solarized
+    # theme: ["default", "custom.scss"]
+    theme: "default"
+
+    slide-number: true
+    chalkboard:
+      buttons: true
+    preview-links: "auto"
+    logo: "https://nsidc.org/themes/custom/nsidc/logo.svg"
+    footer: "[Home](/)"
+    transition: "none"

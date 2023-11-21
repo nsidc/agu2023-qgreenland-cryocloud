@@ -1,0 +1,33 @@
+project:
+  type: "website"
+
+
+website:
+  title: "AGU23: QGreenland & CryoCloud"
+  site-url: "https://nsidc.github.io/qgreenland-cryocloud-agu2023"
+
+  repo-url: "https://github.com/nsidc/qgreenland-cryocloud-agu2023"
+  repo-actions:
+    - "edit"
+    - "source"
+    - "issue"
+
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy;"
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Notes"
+        href: "notes.md"
+      - text: "Slides"
+        href: "slides/index.md"
+
+
+format:
+  html:
+    theme: "cosmo"
+    toc: true
