@@ -33,7 +33,7 @@ subtitle: "An open GIS collaboration for education and research"
 2: [Cooperative Institute for Research in Environmental Sciences
 (CIRES)](https://cires.colorado.edu)
 
-3. [Colorado School of Mines](https://www.mines.edu/)
+3: [Colorado School of Mines](https://www.mines.edu/)
 
 
 ## Placeholder
