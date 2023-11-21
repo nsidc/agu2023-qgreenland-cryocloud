@@ -11,6 +11,12 @@ feedback" belongs on this page.
 :::
 
 
+## Conventions
+
+- [ ] Add logos: QGreenland, CryoCloud, NSIDC, CIRES, NASA
+    - More? See Twila's feedback. Ask around.
+
+
 ## Appearance
 
 - [ ] Darker link colors for increased contrast
