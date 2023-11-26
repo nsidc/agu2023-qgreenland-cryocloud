@@ -68,7 +68,7 @@ Lay out the community's problem...
       ...) you might need.
     * JupyterHub: JupyterLab deployed in the cloud so anyone can create a Lab on demand.
 
-* Working with an existing commmunity benefitted both:
+* Working with an existing community benefitted both:
     * Running workshops helps the CryoCloud team gather data
     * Running workshops helps expand CryoCloud's capabilities (we contributed `{N}` PRs
       to the open-source project)
