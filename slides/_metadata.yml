@@ -17,8 +17,7 @@ format:
     #   simple
     #   sky
     #   solarized
-    # theme: ["default", "custom.scss"]
-    theme: "default"
+    theme: ["default", "style.scss"]
 
     slide-number: true
     chalkboard:
