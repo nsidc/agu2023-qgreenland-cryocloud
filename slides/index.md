@@ -321,13 +321,13 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 
 Our Jupyter Blog post[^jupyter-blog] provides the most detail!
 
+_TODO: Short demo here; image(s)? Animation?_
+
 [^jupyter-blog]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a
 
 :::{.notes}
 This talk is more focused on outcomes and how you can reproduce our success; if your
 want the most detail on this subject, check out our post!
-
-_TODO: Images, animation/video_
 
 _TODO: What level of detail/how much time to spend on this?_
 :::
