@@ -1,5 +1,6 @@
 ---
 title: "Outline draft 1"
+date: "2023-11-21"
 ---
 
 ## TODO / raw thoughts
