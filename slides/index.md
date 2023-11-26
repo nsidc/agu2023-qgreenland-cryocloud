@@ -141,6 +141,13 @@ on curriculum.
 :::
 
 
+# QGreenland workshop
+
+:::{.notes}
+_TODO: Speaker notes_
+:::
+
+
 ## QGreenland workshop
 
 Open source!
@@ -155,8 +162,6 @@ Open source!
 :unicorn: Minimize or eliminate distractions from participants' unique systems
 
 :::{.notes}
-_TODO: Title..._
-
 _TODO: Speaker notes_
 
 _TODO: Where to touch on Internet access as a barrier? Here, under "virtual workshop"?
@@ -317,6 +322,13 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 :::
 
 
+# Desktop GIS in the cloud
+
+:::{.notes}
+_TODO: Speaker notes_
+:::
+
+
 ## Desktop GIS in the cloud
 
 Our Jupyter Blog post[^jupyter-blog] provides the most detail!
@@ -330,6 +342,13 @@ This talk is more focused on outcomes and how you can reproduce our success; if 
 want the most detail on this subject, check out our post!
 
 _TODO: What level of detail/how much time to spend on this?_
+:::
+
+
+# Replication
+
+:::{.notes}
+_TODO: Speaker notes_
 :::
 
 
