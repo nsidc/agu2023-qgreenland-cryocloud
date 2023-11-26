@@ -27,6 +27,8 @@ subtitle: "An open GIS collaboration for education and research"
 
 ::::::
 
+<!-- NOTE: Normal footnotes won't work here.
+     https://github.com/quarto-dev/quarto-cli/issues/5440 --->
 
 1: [National Snow and Ice Data Center (NSIDC)](https://nsidc.org)
 
@@ -36,9 +38,18 @@ subtitle: "An open GIS collaboration for education and research"
 3: [Colorado School of Mines](https://www.mines.edu/)
 
 
+:::{.notes}
+_TODO_: What degree of introduction should I provide?
+
+How much time to spend?
+:::
+
+
 ## QGreenland
 
 What is QGreenland?
+
+<https://qgreenland.org>
 
 :::{.notes}
 _TODO: Copy from a previous AGU presentation. Emphasize that community education and
@@ -58,6 +69,9 @@ Technical training is hard!
 Planning and administering technical training is hard.
 
 _TODO: Why? All the things..._
+
+In this talk, we're going to focus on variance in user systems as a common distraction
+from learning.
 :::
 
 
@@ -80,18 +94,18 @@ Hardware, OS: I'm only comfortable with one operating system myself.
 
 ## Accessibility
 
-Lack of accessibility can be a distraction[^1].
+Lack of accessibility can be a distraction[^accessibility-citation].
 
 Hardware and operating systems are a financial barrier to learning!
 
-Mention UDL guidelines[^2]?
+Mention UDL guidelines[^udl-citation]?
 
 > UDL places responsibility for accessibility on the course designer
-> rather than on the learner[^3]
+> rather than on the learner[^accessibility-responsibility-udl-citation]
 
-[^1]: TODO
-[^2]: <https://udlguidelines.cast.org/>{target="_blank"}
-[^3]: [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/09-eia.html#universal-design-in-learning-udl){target="_blank"}
+[^accessibility-citation]: TODO
+[^udl-citation]: <https://udlguidelines.cast.org/>{target="_blank"}
+[^accessibility-responsibility-udl-citation]: [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/09-eia.html#universal-design-in-learning-udl){target="_blank"}
 
 :::{.notes}
 _TODO: Is this the right place to talk about accessibility? Feels like no_
@@ -109,13 +123,14 @@ Important to point out?
 
 ## Distractions: :thumbsdown:
 
-:thumbsdown: Distractions contribute to learners' cognitive load and reduce learning effectiveness[^1].
+:thumbsdown: Distractions contribute to learners' cognitive load and reduce learning
+effectiveness[^distractions-citation].
 
 :thumbsdown: Distractions consume teaching time.
 
 :thumbsdown: Distractions consume planning time.
 
-[^1]: TODO
+[^distractions-citation]: TODO
 
 :::{.notes}
 _TODO: Make text on slide more succinct, move wordy stuff into notes_
@@ -126,11 +141,18 @@ on curriculum.
 :::
 
 
-## QGreenland workshop's objective/purpose
+## QGreenland workshop
 
-#### :satellite: Run a virtual workshop
+Open source!
 
-#### :unicorn: Minimize or eliminate distractions from participants' unique systems
+<https://qgreenland-workshop-2023-researcher.github.io/>
+
+
+### Objectives
+
+:satellite: Run a virtual workshop
+
+:unicorn: Minimize or eliminate distractions from participants' unique systems
 
 :::{.notes}
 _TODO: Title..._
@@ -143,13 +165,22 @@ the next slide?_
 :::
 
 
-## QGreenland workshop outcomes
+## QGreenland workshop
+
+Open source!
+
+<https://qgreenland-workshop-2023-researcher.github.io/>
+
+
+### Outcomes
 
 :student: 25 learners
 
 :globe_with_meridians: _TODO: List of countries_
 
 :woman_scientist: Early- and late-career researchers
+
+_TODO: More_
 
 
 :::{.notes}
@@ -168,48 +199,183 @@ participation without requiring travel, which we felt was important.
 
 ## How we got there
 
-*CryoCloud to the rescue!*
+![CryoCloud logo](https://book.cryointhecloud.com/_static/logo.png)
+
+*CryoCloud _JupyterHub_ to the rescue!*
 
 :::{.notes}
-Colleagues with the _CryoCloud_ project run a JupyterHub which aims to transition the
+Colleagues with the _CryoCloud_ project run a _JupyterHub_ which aims to transition the
 NASA research community to cloud and open source work patterns, and this aligns well
 with our workshop goals.
 :::
 
----
 
-* *JupyterHub* to the rescue! Colleagues with the _CryoCloud_ project run a JupyterHub
-  which aims to transition the NASA research community to cloud and open source work
-  patterns, and this aligns well with our workshop goals.
+## _JupyterHub?_
 
-* Explained in layers
-    * Jupyter Notebooks: Literate programming file format. Can be edited and viewed with
-      various tools.
-    * Jupyter Lab: A comprehensive browser-based environment for using Jupyter
-      Notebooks, with everything else (terminal, image previewer, tabular data editor,
-      ...) you might need.
-    * JupyterHub: JupyterLab deployed in the cloud so anyone can create a Lab on demand.
+:memo: _Jupyter Notebook_:
+Literate programming file format.
 
-* Working with an existing commmunity benefitted both:
-    * Running workshops helps the CryoCloud team gather data
-    * Running workshops helps expand CryoCloud's capabilities (we contributed `{N}` PRs
-      to the open-source project)
-    * Running workshops helps expand the CryoCloud community
-    * Reduced costs benefit our workshop participants by allowing us to focus more on
-      teaching
-        * Without: $4500 + 2-4 weeks setup
-        * With: $0 + 2-3 days setup + $75 cloud operating expenses
+:desktop_computer: _JupyterLab_:
+A comprehensive browser-based environment for using _Jupyter Notebooks_.
 
-* _TODO:_ Point to CryoCloud's & Openscapes' sessions/tutorials.
+:partly_sunny: **_JupyterHub_**:
+_JupyterLab_ in the cloud, **on demand**.
+
+:::{.notes}
+:memo: _Jupyter Notebook_:
+Literate programming file format. May be most familiar of these three. Can be edited
+and viewed with various tools including the official Jupyter "notebook server" (`jupyter
+notebook`), VSCode, PyCharm, and Google Colab.
+
+:desktop_computer: _JupyterLab_:
+A comprehensive browser-based environment for using _Jupyter Notebooks_, including tools
+you're used to in your local computing environment, such as file browser, terminal,
+package managers, image previewers, and tabular data editors.
+
+:partly_sunny: **_JupyterHub_**:
+_JupyterLab_ deployed in the cloud so users can create a _JupyterLab_ on demand with no
+prior knowledge.
+:::
+
+
+## A mutually-beneficial arrangement
+
+#### :sparkles: Contributed new functionality to the _CryoCloud_ hub
+
+> :::{.nonincremental}
+> * **Open-source desktop GIS in the cloud!**
+> * **11** Pull Requests merged; **9** issues opened
+> :::
+
+
+#### :bulb: Inspired other institutions to replicate our advancements
+
+> :::{.nonincremental}
+> * [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+> :::
+
+
+#### _TODO: Fragments / incremental display on these slides?_
+
+:::{.notes}
+CryoCloud & QGreenland both benefitted from this arrangement.
+
+* CryoCloud is an inclusive open source project. Running workshops helps expand
+  CryoCloud's (and other hubs!) capabilities:
+    * We merged **11** PRs and opened **9** issues to help improve CryoCloud.
+    * We collaborated with 2i2c and CryoCloud to enable QGIS, an open source desktop GIS
+      application that competes with ArcGIS,
+      to be used effectively in the cloud by a classroom-sized group, to do real data
+      analysis. This involved...
+        * MIME type fixes so QGIS project files open when double-clicked.
+        * Performance improvements so QGIS projects could load as fast as they do on
+          local compute.
+    * Misc. improvements:
+        * Upgrading important dependencies like Git
+        * Fixing support for man pages
+        * Adding utilities our users and instructors would need
+        * Improving documentation
+        * Improving CI/CD automations
+        * Eliminating warnings that distract from learning
+
+* CryoCloud is operated by 2i2c, a fiscally sponsored non-profit, that operates a large
+  number of JupyterHubs.
+    * We published a
+      [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+      describing our advancements.
+    * As a result, 2i2c reported increased requests from their clients for the
+      functionality we demonstrated in our blog post.
+    * More _JupyterHubs_ adopted QGIS desktop functionality.
+:::
+
+
+## A mutually-beneficial arrangement
+
+#### :chart_with_upwards_trend: Supported _CryoCloud_ community growth & evaluation of impact
+
+> :::{.nonincremental}
+> * Our workshop learners joined the _CryoCloud_ community!
+> :::
+
+
+#### :money_with_wings: Reduced costs by collaborating!
+
+> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
+>
+> :thumbsup: 2-3 days to setup + ~$75 cloud costs
+
+
+:::{.notes}
+* Running workshops helps expand the CryoCloud community
+* Running workshops helps the CryoCloud team gather data (e.g. surveys) to measure their
+  impact.
+
+* Reduced costs benefit our workshop participants by allowing us to focus more on
+  teaching
+    * Without: $4500 + 2-4 weeks setup
+    * With: $0 + 2-3 days setup + $75 cloud operating expenses
+:::
+
+
+## Desktop GIS in the cloud
+
+Our Jupyter Blog post[^jupyter-blog] provides the most detail!
+
+[^jupyter-blog]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a
+
+:::{.notes}
+This talk is more focused on outcomes and how you can reproduce our success; if your
+want the most detail on this subject, check out our post!
+
+_TODO: Images, animation/video_
+
+_TODO: What level of detail/how much time to spend on this?_
+:::
+
+
+## Cost is still high
+
+* Collaboration with an existing community was key!
+    * We were lucky to have good connections, but...
+* You can do that too.
+    * _TODO: Link to 2i2c hub listing_
+    * _TODO: Other resources to find computing communities_
+* _TODO: Suggest operating a hub? How to avoid duplicating work?_
+
+:::{.notes}
+As you saw in the previous slide, setting up a cloud _JupyterHub_ with all the features
+you need for your workshop can be expensive. Because of this, collaborating with an
+existing community was essential if we wanted to pursue this strategy.
+
+We were fortunate to have established connections with _CryoCloud_ to help us get
+started, but I think you can "cold call" communities; they are eager for collaborators.
+
+If you're looking to run a workshop, consider an existing community to collaborate with.
+
+If you're looking to fund these type of activities, consider doing it through operating
+a _JupyterHub_ community!
+:::
+
+
+# Acknowledgements
+
+TODO
+
+
+## TODO
+
+- [ ] Better structure for intro. "In this presentation, we will talk about ...,
+  outcomes, and how you can take advantage of what we learned."
+- [ ] Better narrative structure for the workshop. We needed X, Y, Z to do our workshop
+  in the cloud. QGIS and QGreenland were of course the most important requirements.
+- [ ] Point to CryoCloud's & Openscapes' sessions/tutorials.
     * Twila: Last slide, or slide before conclusion. QR code? Also use the identifier
       for the presentation. Poster number, title.
-* _TODO:_ "Sounds like you knew the right people to get this opportunity to use a
-  JupyterHub." Yes! There are multiple communities running hubs, however, and I think
-  many are looking to similarly exercise their capabilities. Look at the list of hubs
-  run by 2i2c for opportunities to collaborate.
-
-
-## Outcome bigger picture
-
-* Twila: Highlight how other people can benefit from what we learned.
-    * 
+- [ ] "Outcome" bigger picture.
+    * Twila: Highlight how other people can benefit from what we learned.
+- [ ] Consider where to use incremental display on slides. E.g. JupyterHub intro slide?
+  Mutual benefit slides?
+- [ ] Link to our "outcomes" page. "References" page. Other "lessons learned"
+  documents/pages?
+- [ ] Acknowledgements
+- [ ] Logos
