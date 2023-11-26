@@ -7,7 +7,7 @@ abstract: "A presentation at AGU2023: https://agu.confex.com/agu/fm23/meetingapp
 contact:
   - name: "The QGreenland team"
     email: "qgreenland.info@gmail.com"
-  - name: "The QGreenland community" 
+  - name: "The QGreenland community"
     website: "https://github.com/nsidc/qgreenland/discussions"
 license: ["MIT"]
 keywords:

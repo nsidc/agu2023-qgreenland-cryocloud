@@ -18,7 +18,7 @@ Lay out the community's problem...
 * Variance in user systems can make it harder!
     * Hardware, operating system, and user comfort level
         * I'm personally comfortable with only one very specific operating system
-    * User configuration: 
+    * User configuration:
         * Installed programming languages & versions
         * Dependency managers & installed dependency locations
     * Inclusion and accessibility are important for learning; lack of these is a
@@ -90,4 +90,4 @@ Lay out the community's problem...
 ## Outcome bigger picture
 
 * Twila: Highlight how other people can benefit from what we learned.
-    * 
+    *
