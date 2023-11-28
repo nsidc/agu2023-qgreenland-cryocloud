@@ -3,9 +3,14 @@ title: "Feedback from Trey and Alyse on slides draft 1"
 date: "2023-11-27"
 ---
 
+:::{.callout-note}
+~~Crossed-out items~~ are either resolved or moved elsewhere.
+:::
+
+
 ## Trey: 20 slides is too many!
 
-## Trey: Link to blog post on "Outcomes" slide
+## ~~Trey: Link to blog post on "Outcomes" slide~~
 
 Also link outcomes page on workshop website?
 

@@ -186,7 +186,10 @@ Open source!
 
 :woman_scientist: Early- and late-career researchers
 
+_TODO: Jupyter blog post_
+
 _TODO: More_
+
 
 
 :::{.notes}
