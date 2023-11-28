@@ -9,6 +9,8 @@ title: "References"
 
 * [QGreenland 2023 Researcher Workshop](https://qgreenland-workshop-2023-researcher.github.io/)
   | [source](https://github.com/qgreenland-workshop-2023-researcher/qgreenland-workshop-2023-researcher.github.io)
+    * [Workshop outcomes](https://qgreenland-workshop-2023-researcher.github.io/outcomes/)
+    * [Workshop open-source software](https://qgreenland-workshop-2023-researcher.github.io/content/built-with-open-source.html)
 * [CryoCloud official site](https://cryointhecloud.com/)
 * [QGreenland official site](https://qgreenland.org)
     * [QGreenland Python source](https://github.com/nsidc/qgreenland)

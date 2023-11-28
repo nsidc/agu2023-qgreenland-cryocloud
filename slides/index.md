@@ -1,5 +1,5 @@
 ---
-title: "QGreenland & CryoCloud"
+title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
 ---
 
@@ -39,9 +39,10 @@ subtitle: "An open GIS collaboration for education and research"
 
 
 :::{.notes}
-_TODO_: What degree of introduction should I provide?
+_TODO_: What degree of introduction should I provide? How much time to spend?
 
-How much time to spend?
+There will be a QR code at the final slide linking to the webpage for this presentation
+where you can follow links!
 :::
 
 
@@ -185,7 +186,10 @@ Open source!
 
 :woman_scientist: Early- and late-career researchers
 
+_TODO: Jupyter blog post_
+
 _TODO: More_
+
 
 
 :::{.notes}
@@ -232,6 +236,8 @@ Literate programming file format. May be most familiar of these three. Can be ed
 and viewed with various tools including the official Jupyter "notebook server" (`jupyter
 notebook`), VSCode, PyCharm, and Google Colab.
 
+_TODO: Define literate programming_
+
 :desktop_computer: _JupyterLab_:
 A comprehensive browser-based environment for using _Jupyter Notebooks_, including tools
 you're used to in your local computing environment, such as file browser, terminal,
@@ -257,6 +263,7 @@ prior knowledge.
 
 > :::{.nonincremental}
 > * [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+> * _TODO: QR_
 > :::
 
 
@@ -275,6 +282,7 @@ CryoCloud & QGreenland both benefitted from this arrangement.
         * MIME type fixes so QGIS project files open when double-clicked.
         * Performance improvements so QGIS projects could load as fast as they do on
           local compute.
+        * Demo on upcoming slide.
     * Misc. improvements:
         * Upgrading important dependencies like Git
         * Fixing support for man pages

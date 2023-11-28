@@ -3,19 +3,24 @@ title: "Feedback from Trey and Alyse on slides draft 1"
 date: "2023-11-27"
 ---
 
+:::{.callout-note}
+~~Crossed-out items~~ are either resolved or moved elsewhere.
+:::
+
+
 ## Trey: 20 slides is too many!
 
-## Trey: Link to blog post on "Outcomes" slide
+## ~~Trey: Link to blog post on "Outcomes" slide~~
 
-Also link outcomes page on workshop website?
-
-
-## Define literate programming in speaker notes
+~~Also link outcomes page on workshop website?~~
 
 
-## Mutually-beneficial arrangement: QR code for jupyter blog post
+## ~~Define literate programming in speaker notes~~
 
-"desktop GIS in the cloud": I'll talk about this more in a couple slides
+
+## ~~Mutually-beneficial arrangement: QR code for jupyter blog post~~
+
+~~"desktop GIS in the cloud": I'll talk about this more in a couple slides~~
 
 
 ## Alyse: Video demo
@@ -45,7 +50,7 @@ slides for Q&A.
 
 ### Cut before recording
 
-There's too much to cut!
+There's too much to cut post-recording; it would be janky!
 
 Have to be really high level, short story. We're going to have to cut out meaty things.
 "Hooks" to pull people in.
