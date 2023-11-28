@@ -70,16 +70,18 @@ Keep intro short. Introduce self, not rest of team.
 educate. Introduce this before or after setting up the problem? Whatever feels more
 natural.
 
-AGU will lead last slide up during Q&A. Contact information, one QR code to AGU
-presentation site with a page containing links/QR code for:
+AGU will leave last slide up during Q&A. Put:
 
-* Jupyter Blog,
-* QGreenland.org
-* CryoCloud
-* QR code for workshop site,
-
-_TODO_: After creating the new "Coming from AGU?" page with all these links, send that to
-Alyse!!
+- [x] Contact information
+- [ ] QR code to AGU presentation site "references" page (with dedicated section for "after
+  the presentation") containing links code for:
+    - [x] Jupyter Blog
+    - [x] QGreenland.org
+    - [x] CryoCloud
+    - [x] QGreenland researcher workshop site
+    - [x] QGreenland educator workshop site
+- [ ] After creating the new "Coming from AGU?" page with all these links, send that to
+  Alyse!!
 
 
 ## Trey: Make it really obvious from the start that people are in the right place
