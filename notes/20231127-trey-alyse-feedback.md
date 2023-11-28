@@ -69,10 +69,11 @@ natural.
 
 AGU will lead last slide up during Q&A. Contact information, one QR code to AGU
 presentation site with a page containing links/QR code for:
+
 * Jupyter Blog,
 * QGreenland.org
 * CryoCloud
-* QR code for workshop site, 
+* QR code for workshop site,
 
 _TODO_: After creating the new "Coming from AGU?" page with all these links, send that to
 Alyse!!
