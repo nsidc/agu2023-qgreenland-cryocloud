@@ -12,7 +12,7 @@ date: "2023-11-27"
 
 ## ~~Trey: Link to blog post on "Outcomes" slide~~
 
-Also link outcomes page on workshop website?
+~~Also link outcomes page on workshop website?~~
 
 
 ## Define literate programming in speaker notes
