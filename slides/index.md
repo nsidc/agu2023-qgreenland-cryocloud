@@ -39,9 +39,10 @@ subtitle: "An open GIS collaboration for education and research"
 
 
 :::{.notes}
-_TODO_: What degree of introduction should I provide?
+_TODO_: What degree of introduction should I provide? How much time to spend?
 
-How much time to spend?
+There will be a QR code at the final slide linking to the webpage for this presentation
+where you can follow links!
 :::
 
 
