@@ -1,5 +1,5 @@
 ---
-title: "QGreenland & CryoCloud"
+title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
 ---
 
