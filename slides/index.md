@@ -39,10 +39,16 @@ subtitle: "An open GIS collaboration for education and research"
 
 
 :::{.notes}
-_TODO_: What degree of introduction should I provide? How much time to spend?
+I'm Matt Fisher:
+
+* Software developer at NSIDC
+* Author, with Trey Stafford, of the QGreenland software
+* Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop.
+  More on that soon!
 
 There will be a QR code at the final slide linking to the webpage for this presentation
-where you can follow links!
+where you can, for example, follow these links and learn more about co-authors on this
+talk!
 :::
 
 
