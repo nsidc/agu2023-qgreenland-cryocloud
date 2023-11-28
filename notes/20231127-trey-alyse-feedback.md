@@ -15,12 +15,12 @@ date: "2023-11-27"
 ~~Also link outcomes page on workshop website?~~
 
 
-## Define literate programming in speaker notes
+## ~~Define literate programming in speaker notes~~
 
 
-## Mutually-beneficial arrangement: QR code for jupyter blog post
+## ~~Mutually-beneficial arrangement: QR code for jupyter blog post~~
 
-"desktop GIS in the cloud": I'll talk about this more in a couple slides
+~~"desktop GIS in the cloud": I'll talk about this more in a couple slides~~
 
 
 ## Alyse: Video demo
