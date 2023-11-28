@@ -376,9 +376,31 @@ a _JupyterHub_ community!
 :::
 
 
-# Acknowledgements
+# Thank you
 
-TODO
+:bow:
+
+
+## Acknowledgements
+
+_TODO_
+
+
+## :question: Q&A
+
+_TODO: QR code for "references" page of this site_
+
+
+### Contact
+
+Me: `mfisher87@gmail.com`
+
+QGreenland Team: `qgreenland.info@gmail.com`
+
+
+# Additional slides
+
+:tada:
 
 
 ## TODO
