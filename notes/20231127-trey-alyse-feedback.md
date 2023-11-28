@@ -50,7 +50,7 @@ slides for Q&A.
 
 ### Cut before recording
 
-There's too much to cut!
+There's too much to cut post-recording; it would be janky!
 
 Have to be really high level, short story. We're going to have to cut out meaty things.
 "Hooks" to pull people in.
