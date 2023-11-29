@@ -10,6 +10,8 @@ Specific feedback should stay in its own document. A TODO like "Address Twila's
 feedback" belongs on this page.
 :::
 
+- [ ] Update intro slide to match author order with the abstract submission
+
 
 ## Conventions
 
