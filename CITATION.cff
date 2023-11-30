@@ -20,8 +20,8 @@ keywords:
   - "QGreenland"
   - "CryoCloud"
 
-url: "https://github.com/nsidc/qgreenland-cryocloud-agu2023"
-repository-code: "https://github.com/nsidc/qgreenland-cryocloud-agu2023"
+url: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
+repository-code: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
 
 version: "0.1.0"
 # date-released: "TODO"

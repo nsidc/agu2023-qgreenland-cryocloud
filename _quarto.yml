@@ -4,9 +4,9 @@ project:
 
 website:
   title: "AGU23: QGreenland & CryoCloud"
-  site-url: "https://nsidc.github.io/qgreenland-cryocloud-agu2023"
+  site-url: "https://nsidc.github.io/agu2023-qgreenland-cryocloud"
 
-  repo-url: "https://github.com/nsidc/qgreenland-cryocloud-agu2023"
+  repo-url: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
   repo-actions:
     - "edit"
     - "source"
