@@ -2,6 +2,8 @@
 title: "References"
 ---
 
+{{< include "/logos.md" >}}
+
 ## :link: Links we want you to check out after our presentation
 
 :bangbang: First, check out the

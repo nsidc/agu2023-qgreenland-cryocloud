@@ -14,6 +14,9 @@ author:
     orcid: "0000-0002-5510-0055"
 ---
 
+{{< include "/logos.md" >}}
+
+
 ## Abstract
 
 Providing training on inherently-technical subjects can be confounded by the wide
