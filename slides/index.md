@@ -41,12 +41,14 @@ _TODO_
 <!-- NOTE: Normal footnotes won't work here.
      https://github.com/quarto-dev/quarto-cli/issues/5440 --->
 
+:::{style="font-size:60%;"}
 1: [National Snow and Ice Data Center (NSIDC)](https://nsidc.org)
 
 2: [Cooperative Institute for Research in Environmental Sciences
 (CIRES)](https://cires.colorado.edu)
 
 3: [Colorado School of Mines](https://www.mines.edu/)
+:::
 
 
 :::{.notes}
