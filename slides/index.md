@@ -66,7 +66,7 @@ talk!
 :::
 
 
-## ![](/_assets/qgreenland_logo.svg){height="1em" style="margin-bottom: 0px;"} What is QGreenland? {.smaller}
+## ![](/_assets/qgreenland_logo.svg){height="1em" style="margin-bottom: 0px;"} What is [QGreenland]{.qgreenland-red}? {.smaller}
 
 ::::::{.columns}
 
