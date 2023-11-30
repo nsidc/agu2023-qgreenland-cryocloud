@@ -66,15 +66,31 @@ talk!
 :::
 
 
-## QGreenland
+## ![](/_assets/qgreenland_logo.svg){height="1em" style="margin-bottom: 0px;"} What is QGreenland? {.smaller}
 
-What is QGreenland?
+::::::{.columns}
+
+:::{.column width="30%"}
+* **All-in-one, open-source, QGreenland-focused GIS environment for offline and online
+  use** with **QGIS**
+* **Curated interdisciplinary data package** for research, learning, decision-making, and
+  collaboration.
 
 <https://qgreenland.org>
+:::
+
+:::{.column width="70%"}
+![](/_assets/qgreenland_overview.png)
+:::
+
+::::::
+
 
 :::{.notes}
-_TODO: Copy from a previous AGU presentation. Emphasize that community education and
-outreach, and therefore workshops, are important parts of our activities._
+_Read the text._
+
+Community education and outreach, and therefore workshops, are important parts of our
+grant-funded activities.
 
 _TODO: Talk about how we're going in to this with little experience?_
 
