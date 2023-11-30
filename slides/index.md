@@ -54,7 +54,8 @@ _TODO_
 :::{.notes}
 I'm Matt Fisher:
 
-* Software developer at NSIDC
+* Mid-career software developer
+* Working at NSIDC
 * Author, with Trey Stafford, of the QGreenland software
 * Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop.
   More on that soon!
