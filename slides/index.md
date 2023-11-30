@@ -3,6 +3,17 @@ title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
 ---
 
+## In this presentation...
+
+_TODO_
+
+:::{.notes}
+_TODO_
+:::
+
+
+---
+
 :::::: {.columns}
 
 ::: {.column width="20%"}
