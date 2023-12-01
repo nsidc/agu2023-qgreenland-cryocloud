@@ -5,10 +5,20 @@ subtitle: "An open GIS collaboration for education and research"
 
 ## In this presentation...
 
-_TODO_
+* **A community problem**: Technical training is hard!
+* **(Part of?) the solution**: Teaching on a JupyterHub to reduce distractions, improve
+  accessibility, and enhance learning. _A [**QGreenland**]{.qgreenland-red}
+  workshop collaboration success story._
+* **How you can do it to**: Check out [**CryoCloud**](https://cryointhecloud.com)!
 
 :::{.notes}
-_TODO_
+Technical training is hard. Technical training about Earth science data is especially
+hard, and often requires a complex software environment.
+
+Teaching on a JupyterHub enables learners and instructors to focus more of their time on
+learning and less of it on troubleshooting.
+
+This could be an option for your next workshop!
 :::
 
 
