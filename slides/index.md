@@ -197,30 +197,29 @@ the next slide?_
 
 ### Outcomes
 
-:student: 25 learners
+:student: 25 learners :de: :poland: :india: :fr: :canada: :us:
 
-:globe_with_meridians: _TODO: List of countries_
+:woman_scientist: Researchers from all career stages
 
-:woman_scientist: Early- and late-career researchers
+:money_with_wings: Reduced costs by *>~$4000* by collaborating with CryoCloud
 
-_TODO: More_
-
-_TODO: Jupyter blog post? (it's mentioned multiple times soon... perhaps if we talk
-about cost and the Jupyter Blog post here, we can move more slides to the additional
-section.)_
+:ringed_planet: Shared lessons learned in
+[_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
 
 
 :::{.notes}
-Our workshop was able to serve 25 international learners, including `{list of
-countries}`, from career levels `{career level range}`, while limiting technical
-prerequisites to Internet access and a browser.
+Our workshop was able to serve 25 learners from all career stages, representing Germany,
+India, USA, India, Poland, and France. Our only technical prerequisites were Internet
+access and a browser.
 
-_TODO: Better term than late-career?_
+We reduced the costs of setting up compute infrastructure from an expected $4500 to only
+$75 in cloud costs for a 3-day workshop.
 
-_TODO: Talk about cost here? If we want to eliminate/reduce future slides?_
+We shared our lessons learned in a post on the _Jupyter Blog_. Our last slide will have
+a QR code that will take you to a page with links, including to this post.
 
-Internet access is no small barrier to participation, but enabled international
-participation without requiring travel, which we felt was important.
+NOTE: Internet access is no small barrier to participation, but our format enabled
+international participation without requiring travel, which we felt was important.
 :::
 
 
@@ -263,11 +262,9 @@ _JupyterLab_ in the cloud, **on demand**.
 
 :::{.notes}
 :memo: _Jupyter Notebook_:
-Literate programming file format. May be most familiar of these three. Can be edited
+Interactive computing file format. May be most familiar of these three. Can be edited
 and viewed with various tools including the official Jupyter "notebook server" (`jupyter
 notebook`), VSCode, PyCharm, and Google Colab.
-
-_TODO: Define literate programming_
 
 :desktop_computer: _JupyterLab_:
 A comprehensive browser-based environment for using _Jupyter Notebooks_, including tools
@@ -277,81 +274,6 @@ package managers, image previewers, and tabular data editors.
 :partly_sunny: **_JupyterHub_**:
 _JupyterLab_ deployed in the cloud so users can create a _JupyterLab_ on demand with no
 prior knowledge.
-:::
-
-
-## :handshake: A mutually-beneficial collaboration
-
-:::{.fragment}
-#### :money_with_wings: Reduced costs by collaborating!
-
-> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
->
-> :thumbsup: 2-3 days to setup + ~$75 cloud costs
-:::
-
-:::{.fragment}
-#### :sparkles: Contributed new functionality to the _CryoCloud_ hub
-
-> :open_hands: **Open-source desktop GIS in the cloud!**
->
-> :tada: **11** Pull Requests merged; **9** issues opened
-:::
-
-
-:::{.notes}
-CryoCloud & QGreenland both benefitted from this arrangement.
-
-* Reduced costs benefit our workshop participants by allowing us to focus more on
-  teaching
-    * Without: $4500 + 2-4 weeks setup
-    * With: $0 + 2-3 days setup + $75 cloud operating expenses
-
-* CryoCloud is an inclusive open source project. Running workshops helps expand
-  CryoCloud's (and other hubs!) capabilities:
-    * We merged **11** PRs and opened **9** issues to help improve CryoCloud.
-    * We collaborated with 2i2c and CryoCloud to enable QGIS, an open source desktop GIS
-      application that competes with ArcGIS,
-      to be used effectively in the cloud by a classroom-sized group, to do real data
-      analysis. This involved...
-        * MIME type fixes so QGIS project files open when double-clicked.
-        * Performance improvements so QGIS projects could load as fast as they do on
-          local compute.
-        * Demo on upcoming slide.
-    * Misc. improvements:
-        * Upgrading important dependencies like Git
-        * Fixing support for man pages
-        * Adding utilities our users and instructors would need
-        * Improving documentation
-        * Improving CI/CD automations
-        * Eliminating warnings that distract from learning
-:::
-
-
----
-
-#### :chart_with_upwards_trend: Supported _CryoCloud_ community growth & evaluation of impact
-
-> :open_hands: Our workshop learners joined the _CryoCloud_ community!
-
-:::{.fragment}
-#### :bulb: Inspired other institutions to replicate our advancements
-
-> :ringed_planet: [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-:::
-
-
-:::{.notes}
-* Running workshops helps expand the CryoCloud community
-* Running workshops helps the CryoCloud team gather data (e.g. surveys) to measure their
-  impact.
-
-* We published a
-  [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-  describing our advancements. Ther will be a QR code at the end.
-    * As a result, 2i2c reported increased requests from their clients for the
-      functionality we demonstrated in our blog post.
-    * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
 
 
@@ -386,6 +308,7 @@ _TODO: Speaker notes_
 
 
 ## :money_with_wings: Cost is still high, so...
+
 
 #### :handshake: Collaboration with an existing community was key!
 
@@ -468,6 +391,81 @@ _TODO: Make text on slide more succinct, move wordy stuff into notes_
 Planning: How many helpers do we need? What prep-work do we need participants to do
 (installing software, etc.)? Do we need loaner hardware? This time could be better spent
 on curriculum.
+:::
+
+
+## :handshake: A mutually-beneficial collaboration
+
+:::{.fragment}
+#### :money_with_wings: Reduced costs by collaborating!
+
+> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
+>
+> :thumbsup: 2-3 days to setup + ~$75 cloud costs
+:::
+
+:::{.fragment}
+#### :sparkles: Contributed new functionality to the _CryoCloud_ hub
+
+> :open_hands: **Open-source desktop GIS in the cloud!**
+>
+> :tada: **11** Pull Requests merged; **9** issues opened
+:::
+
+
+:::{.notes}
+CryoCloud & QGreenland both benefitted from this arrangement.
+
+* Reduced costs benefit our workshop participants by allowing us to focus more on
+  teaching
+    * Without: $4500 + 2-4 weeks setup
+    * With: $0 + 2-3 days setup + $75 cloud operating expenses
+
+* CryoCloud is an inclusive open source project. Running workshops helps expand
+  CryoCloud's (and other hubs!) capabilities:
+    * We merged **11** PRs and opened **9** issues to help improve CryoCloud.
+    * We collaborated with 2i2c and CryoCloud to enable QGIS, an open source desktop GIS
+      application that competes with ArcGIS,
+      to be used effectively in the cloud by a classroom-sized group, to do real data
+      analysis. This involved...
+        * MIME type fixes so QGIS project files open when double-clicked.
+        * Performance improvements so QGIS projects could load as fast as they do on
+          local compute.
+        * Demo on upcoming slide.
+    * Misc. improvements:
+        * Upgrading important dependencies like Git
+        * Fixing support for man pages
+        * Adding utilities our users and instructors would need
+        * Improving documentation
+        * Improving CI/CD automations
+        * Eliminating warnings that distract from learning
+:::
+
+
+---
+
+#### :chart_with_upwards_trend: Supported _CryoCloud_ community growth & evaluation of impact
+
+> :open_hands: Our workshop learners joined the _CryoCloud_ community!
+
+:::{.fragment}
+#### :bulb: Inspired other institutions to replicate our advancements
+
+> :ringed_planet: [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+:::
+
+
+:::{.notes}
+* Running workshops helps expand the CryoCloud community
+* Running workshops helps the CryoCloud team gather data (e.g. surveys) to measure their
+  impact.
+
+* We published a
+  [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+  describing our advancements. Ther will be a QR code at the end.
+    * As a result, 2i2c reported increased requests from their clients for the
+      functionality we demonstrated in our blog post.
+    * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
 
 
