@@ -31,7 +31,7 @@ Have to be really high level, short story. We're going to have to cut out meaty 
 * What are the takeaways without going in to the details of any particular area. Tease
   people to go to the blog post.
 * End with the blog post.
-* My email if you have questions. QGreenland email? GitHub Discussions QR code
+* ~~My email if you have questions. QGreenland email? GitHub Discussions QR code~~
 
 
 ### Alyse
@@ -54,14 +54,14 @@ Sometimes at AGU first slide is a preview of the whole presentation.
 
 ~~Keep intro short. Introduce self, not rest of team.~~
 
-"What is QGreenland" in 5 seconds. PICTURE!! and QR code. Emphasize responsibility to
+~~"What is QGreenland" in 5 seconds. PICTURE!! and QR code. Emphasize responsibility to
 educate. Introduce this before or after setting up the problem? Whatever feels more
-natural.
+natural.~~
 
 ### Trey
 
-Make it really obvious from the start that people are in the right place and
-presentation is what they expected.
+~~Make it really obvious from the start that people are in the right place and
+presentation is what they expected.~~
 
 
 ## Video demo
@@ -81,7 +81,7 @@ Stills to use on slides!
 AGU will leave last slide up during Q&A. Put:
 
 - [x] Contact information
-- [ ] QR code to AGU presentation site "references" page (with dedicated section for "after
+- [x] QR code to AGU presentation site "references" page (with dedicated section for "after
   the presentation") containing links code for:
     - [x] Jupyter Blog
     - [x] QGreenland.org

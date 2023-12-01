@@ -105,8 +105,6 @@ Community education and outreach, and therefore workshops, are important parts o
 grant-funded activities.
 
 _TODO: Talk about how we're going in to this with little experience?_
-
-_TODO: Does CryoCloud belong here to? Or is it OK to get to it later?_
 :::
 
 
@@ -353,7 +351,7 @@ Thank you!
 ::::::{.columns}
 
 :::{.column width="34%"}
-_TODO: QR code for "references" page of this site_
+![[https://nsidc.github.io/agu2023-qgreenland-cryocloud/references.html]{style="font-size: 80%;"}](/_assets/qr_references.png)
 :::
 
 :::{.column width="66%"}
@@ -468,7 +466,7 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 
 * We published a
   [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-  describing our advancements. Ther will be a QR code at the end.
+  describing our advancements. There will be a QR code at the end.
     * As a result, 2i2c reported increased requests from their clients for the
       functionality we demonstrated in our blog post.
     * More _JupyterHubs_ adopted QGIS desktop functionality.
@@ -479,6 +477,4 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 
 - [ ] Better narrative structure for the workshop. We needed X, Y, Z to do our workshop
   in the cloud. QGIS and QGreenland were of course the most important requirements.
-- [ ] Link to our "outcomes" page. "References" page. Other "lessons learned"
-  documents/pages?
 - [ ] Acknowledgements
