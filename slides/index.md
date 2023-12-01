@@ -282,26 +282,30 @@ prior knowledge.
 
 ## :handshake: A mutually-beneficial collaboration
 
+:::{.fragment}
+#### :money_with_wings: Reduced costs by collaborating!
+
+> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
+>
+> :thumbsup: 2-3 days to setup + ~$75 cloud costs
+:::
+
+:::{.fragment}
 #### :sparkles: Contributed new functionality to the _CryoCloud_ hub
 
-> :::{.nonincremental}
-> * **Open-source desktop GIS in the cloud!**
-> * **11** Pull Requests merged; **9** issues opened
-> :::
+> :open_hands: **Open-source desktop GIS in the cloud!**
+>
+> :tada: **11** Pull Requests merged; **9** issues opened
+:::
 
-
-#### :bulb: Inspired other institutions to replicate our advancements
-
-> :::{.nonincremental}
-> * [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-> * _TODO: QR_
-> :::
-
-
-#### _TODO: Fragments / incremental display on these slides?_
 
 :::{.notes}
 CryoCloud & QGreenland both benefitted from this arrangement.
+
+* Reduced costs benefit our workshop participants by allowing us to focus more on
+  teaching
+    * Without: $4500 + 2-4 weeks setup
+    * With: $0 + 2-3 days setup + $75 cloud operating expenses
 
 * CryoCloud is an inclusive open source project. Running workshops helps expand
   CryoCloud's (and other hubs!) capabilities:
@@ -321,32 +325,20 @@ CryoCloud & QGreenland both benefitted from this arrangement.
         * Improving documentation
         * Improving CI/CD automations
         * Eliminating warnings that distract from learning
-
-* CryoCloud is operated by 2i2c, a fiscally sponsored non-profit, that operates a large
-  number of JupyterHubs.
-    * We published a
-      [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-      describing our advancements.
-    * As a result, 2i2c reported increased requests from their clients for the
-      functionality we demonstrated in our blog post.
-    * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
 
 
-## A mutually-beneficial arrangement
+---
 
 #### :chart_with_upwards_trend: Supported _CryoCloud_ community growth & evaluation of impact
 
-> :::{.nonincremental}
-> * Our workshop learners joined the _CryoCloud_ community!
-> :::
+> :open_hands: Our workshop learners joined the _CryoCloud_ community!
 
+:::{.fragment}
+#### :bulb: Inspired other institutions to replicate our advancements
 
-#### :money_with_wings: Reduced costs by collaborating!
-
-> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
->
-> :thumbsup: 2-3 days to setup + ~$75 cloud costs
+> :ringed_planet: [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+:::
 
 
 :::{.notes}
@@ -354,10 +346,12 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 * Running workshops helps the CryoCloud team gather data (e.g. surveys) to measure their
   impact.
 
-* Reduced costs benefit our workshop participants by allowing us to focus more on
-  teaching
-    * Without: $4500 + 2-4 weeks setup
-    * With: $0 + 2-3 days setup + $75 cloud operating expenses
+* We published a
+  [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+  describing our advancements. Ther will be a QR code at the end.
+    * As a result, 2i2c reported increased requests from their clients for the
+      functionality we demonstrated in our blog post.
+    * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
 
 
