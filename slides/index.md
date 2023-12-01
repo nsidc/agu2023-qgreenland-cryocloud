@@ -176,26 +176,6 @@ Important to point out?
 :::
 
 
-## Distractions: :thumbsdown:
-
-:thumbsdown: Distractions contribute to learners' cognitive load and reduce learning
-effectiveness[^distractions-citation].
-
-:thumbsdown: Distractions consume teaching time.
-
-:thumbsdown: Distractions consume planning time.
-
-[^distractions-citation]: TODO
-
-:::{.notes}
-_TODO: Make text on slide more succinct, move wordy stuff into notes_
-
-Planning: How many helpers do we need? What prep-work do we need participants to do
-(installing software, etc.)? Do we need loaner hardware? This time could be better spent
-on curriculum.
-:::
-
-
 # QGreenland workshop
 
 :::{.notes}
@@ -462,7 +442,27 @@ QGreenland Team: `qgreenland.info@gmail.com`
 
 # Additional slides
 
+
 :tada:
+
+
+## :thumbsdown: Distractions
+
+:thumbsdown: Distractions contribute to learners' cognitive load and reduce learning
+effectiveness.
+
+:thumbsdown: Distractions consume teaching time.
+
+:thumbsdown: Distractions consume planning time.
+
+
+:::{.notes}
+_TODO: Make text on slide more succinct, move wordy stuff into notes_
+
+Planning: How many helpers do we need? What prep-work do we need participants to do
+(installing software, etc.)? Do we need loaner hardware? This time could be better spent
+on curriculum.
+:::
 
 
 ## TODO
