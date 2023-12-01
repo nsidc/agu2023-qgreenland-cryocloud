@@ -337,6 +337,11 @@ a _JupyterHub_ community!
 
 {{< include "/logos.md" >}}
 
+Other sessions:
+
+_TODO: Fill out CryoCloud & Openscapes sessions/tutorials. Use the identifier
+ for the presentation. Poster number, title._
+
 :::{.notes}
 Thank you!
 :::
@@ -473,14 +478,6 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 
 - [ ] Better narrative structure for the workshop. We needed X, Y, Z to do our workshop
   in the cloud. QGIS and QGreenland were of course the most important requirements.
-- [ ] Point to CryoCloud's & Openscapes' sessions/tutorials.
-    * Twila: Last slide, or slide before conclusion. QR code? Also use the identifier
-      for the presentation. Poster number, title.
-- [ ] "Outcome" bigger picture.
-    * Twila: Highlight how other people can benefit from what we learned.
-- [ ] Consider where to use incremental display on slides. E.g. JupyterHub intro slide?
-  Mutual benefit slides?
 - [ ] Link to our "outcomes" page. "References" page. Other "lessons learned"
   documents/pages?
 - [ ] Acknowledgements
-- [ ] Logos
