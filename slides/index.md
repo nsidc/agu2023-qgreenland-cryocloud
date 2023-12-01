@@ -81,7 +81,7 @@ talk!
 ::::::{.columns}
 
 :::{.column width="30%"}
-* **All-in-one, open-source, QGreenland-focused GIS environment for offline and online
+* **All-in-one, open-source, Greenland-focused GIS environment for offline and online
   use** with **QGIS**
 * **Curated interdisciplinary data package** for research, learning, decision-making, and
   collaboration.
