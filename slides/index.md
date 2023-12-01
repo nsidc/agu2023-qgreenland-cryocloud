@@ -3,6 +3,7 @@ title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
 ---
 
+
 ## In this presentation...
 
 * **A community problem**: Technical training is hard!
@@ -70,9 +71,10 @@ I'm Matt Fisher:
 * Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop.
   More on that soon!
 
-There will be a QR code at the final slide linking to the webpage for this presentation
-where you can, for example, follow these links and learn more about co-authors on this
-talk!
+If anything in this talk goes by too quickly, there will be a QR code at the final slide
+linking to the webpage for this presentation. There you can find a copy of the slides
+(including bonus slides), learn more about authors of this talk, and find several links
+we think you might be interested in.
 :::
 
 
@@ -377,7 +379,7 @@ another to join CryoCloud.
 :::
 
 
-# :tada: Additional slides
+# :tada: Bonus slides
 
 
 ## :thumbsdown: Distractions
