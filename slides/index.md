@@ -394,7 +394,7 @@ _TODO: Speaker notes_
 :::
 
 
-## Cost is still high
+## :money_with_wings: Cost is still high
 
 * Collaboration with an existing community was key!
     * We were lucky to have good connections, but...
@@ -418,32 +418,46 @@ a _JupyterHub_ community!
 :::
 
 
-# Thank you
+# :bow: Thank you
 
-:bow:
+{{< include "/logos.md" >}}
 
-
-## Acknowledgements
-
-_TODO_
+:::{.notes}
+Thank you!
+:::
 
 
 ## :question: Q&A
 
+::::::{.columns}
+
+:::{.column width="34%"}
 _TODO: QR code for "references" page of this site_
+:::
 
-
+:::{.column width="66%"}
 ### Contact
 
-Me: `mfisher87@gmail.com`
+`mfisher87@gmail.com`
 
-QGreenland Team: `qgreenland.info@gmail.com`
+`qgreenland.info@gmail.com`
+
+Join [CryoCloud](https://cryointhecloud.com) and chat with us on [**GitHub
+Discussions**](https://github.com/nsidc/qgreenland/discussions/)!
+:::
+
+::::::
 
 
-# Additional slides
+:::{.notes}
+If you follow the QR code, it'll take you to the website for this presentation.
+
+You'll see a collection of links, including on to join us on GitHub Discussions, and
+another to join CryoCloud.
+:::
 
 
-:tada:
+# :tada: Additional slides
 
 
 ## :thumbsdown: Distractions
@@ -467,8 +481,6 @@ on curriculum.
 
 ## TODO
 
-- [ ] Better structure for intro. "In this presentation, we will talk about ...,
-  outcomes, and how you can take advantage of what we learned."
 - [ ] Better narrative structure for the workshop. We needed X, Y, Z to do our workshop
   in the cloud. QGIS and QGreenland were of course the most important requirements.
 - [ ] Point to CryoCloud's & Openscapes' sessions/tutorials.
