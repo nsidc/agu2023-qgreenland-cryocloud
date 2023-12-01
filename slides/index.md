@@ -124,18 +124,26 @@ from learning.
 
 ## Variance in user systems
 
-An added challenge that distracts from learning.
-
+:::{.fragment}
 * Hardware, operating system, and user comfort level
+:::
 
+:::{.fragment}
 * User configuration
     * Installed programming languages & versions
     * Dependency managers & installed dependency locations
+:::
+
+:::{.fragment}
+:point_up: **Takes time away from teaching, planning, and learning.**
+:::
 
 :::{.notes}
-_TODO: Step through bullets?_
+* I'm only comfortable with one **operating system** myself.
 
-Hardware, OS: I'm only comfortable with one operating system myself.
+* Many learners' **user configurations**, like mine, are customized.
+
+* We all, learners and instructors, only have so much time and attention to give.
 :::
 
 
