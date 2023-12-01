@@ -6,7 +6,7 @@ subtitle: "An open GIS collaboration for education and research"
 
 ## In this presentation...
 
-* **A community problem**: Technical training is hard!
+* **A problem in our community**: Technical training is hard!
 * **(Part of?) the solution**: Teaching on a JupyterHub to reduce distractions, improve
   accessibility, and enhance learning. _A [**QGreenland**]{.qgreenland-red}
   workshop collaboration success story._
@@ -108,7 +108,7 @@ _TODO: Talk about how we're going in to this with little experience?_
 :::
 
 
-# A community problem
+# A problem in our community
 
 Technical training is hard!
 
@@ -211,17 +211,17 @@ from learning!
 
 :::{.notes}
 Our workshop was able to serve 25 learners from all career stages, representing Germany,
-India, USA, India, Poland, and France. Our only technical prerequisites were Internet
-access and a browser.
+Poland, India, France, Canada, and the US. Our only technical prerequisites
+were Internet access and a browser.
+
+NOTE: Internet access is no small barrier to participation, but our format enabled
+international participation without requiring travel, which we felt was important.
 
 We reduced the costs of setting up compute infrastructure from an expected $4500 to only
 $75 in cloud costs for a 3-day workshop.
 
 We shared our lessons learned in a post on the _Jupyter Blog_. Our last slide will have
 a QR code that will take you to a page with links, including to this post.
-
-NOTE: Internet access is no small barrier to participation, but our format enabled
-international participation without requiring travel, which we felt was important.
 :::
 
 
@@ -318,7 +318,7 @@ _TODO: Speaker notes_
 * _TODO: Suggest operating a hub? How to avoid duplicating work?_
 
 :::{.notes}
-As you saw in the previous slide, setting up a cloud _JupyterHub_ with all the features
+As you saw in a previous slide, setting up a cloud _JupyterHub_ with all the features
 you need for your workshop can be expensive. Because of this, collaborating with an
 existing community was essential if we wanted to pursue this strategy.
 
