@@ -182,16 +182,18 @@ There will be a QR code on the last slide that will include this link.
 
 ### Objectives
 
-:satellite: Run a virtual workshop
+:satellite: Run a virtual, open, accessible workshop
 
 :unicorn: Minimize or eliminate distractions from participants' unique systems
 
 :::{.notes}
-_TODO: Speaker notes_
+We want to run a workshop that's accessible to researchers around the world at all
+career levels.
 
-_TODO: Where to touch on Internet access as a barrier? Here, under "virtual workshop"?
-Or next slide? Or both? Set up the requirement here, and then go in to the concern on
-the next slide?_
+Our workshop requires users to be able to run QGreenland and install several
+dependencies, including GDAL and optionally Git. It's important these are all at
+versions compatible with the materials. We really don't want this to be a distraction
+from learning!
 :::
 
 
