@@ -167,7 +167,7 @@ our workshop activities and materials are, the more people can learn from them.
 
 # [QGreenland]{.qgreenland-red} workshop
 
-:open_hands: Open source!
+:open_hands: Open source! _TODO: Can/should we say our workshop is FAIR?_
 
 <https://qgreenland-workshop-2023-researcher.github.io/>
 
@@ -357,6 +357,8 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 
 # :cloud: Desktop GIS in the cloud
 
+_TODO: QGIS logo_
+
 :::{.notes}
 _TODO: Speaker notes_
 :::
@@ -366,15 +368,13 @@ _TODO: Speaker notes_
 
 Our Jupyter Blog post[^jupyter-blog] provides the most detail!
 
-_TODO: Short demo here; image(s)? Animation?_
+_TODO: Image(s) or very short animation_
 
 [^jupyter-blog]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a
 
 :::{.notes}
-This talk is more focused on outcomes and how you can reproduce our success; if your
-want the most detail on this subject, check out our post!
-
-_TODO: What level of detail/how much time to spend on this?_
+This talk is more focused on outcomes and how you can reproduce our success; if you
+want the most detail on this subject, check out our blog post!
 :::
 
 
@@ -387,11 +387,12 @@ _TODO: Speaker notes_
 
 ## :money_with_wings: Cost is still high, so...
 
-* Collaboration with an existing community was key!
-    * We were lucky to have good connections, but...
-* You can do that too.
-    * _TODO: Link to 2i2c hub listing_
-    * _TODO: Other resources to find computing communities_
+#### :handshake: Collaboration with an existing community was key!
+
+#### 🫵  And you can do this too.
+
+* _TODO: Link to 2i2c hub listing_
+* _TODO: Other resources to find computing communities_
 * _TODO: Suggest operating a hub? How to avoid duplicating work?_
 
 :::{.notes}
