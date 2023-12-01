@@ -3,6 +3,27 @@ title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
 ---
 
+## In this presentation...
+
+* **A community problem**: Technical training is hard!
+* **(Part of?) the solution**: Teaching on a JupyterHub to reduce distractions, improve
+  accessibility, and enhance learning. _A [**QGreenland**]{.qgreenland-red}
+  workshop collaboration success story._
+* **How you can do it to**: Check out [**CryoCloud**](https://cryointhecloud.com)!
+
+:::{.notes}
+Technical training is hard. Technical training about Earth science data is especially
+hard, and often requires a complex software environment.
+
+Teaching on a JupyterHub enables learners and instructors to focus more of their time on
+learning and less of it on troubleshooting.
+
+This could be an option for your next workshop!
+:::
+
+
+---
+
 :::::: {.columns}
 
 ::: {.column width="20%"}
@@ -30,31 +51,56 @@ subtitle: "An open GIS collaboration for education and research"
 <!-- NOTE: Normal footnotes won't work here.
      https://github.com/quarto-dev/quarto-cli/issues/5440 --->
 
+:::{style="font-size:60%;"}
 1: [National Snow and Ice Data Center (NSIDC)](https://nsidc.org)
 
 2: [Cooperative Institute for Research in Environmental Sciences
 (CIRES)](https://cires.colorado.edu)
 
 3: [Colorado School of Mines](https://www.mines.edu/)
-
-
-:::{.notes}
-_TODO_: What degree of introduction should I provide? How much time to spend?
-
-There will be a QR code at the final slide linking to the webpage for this presentation
-where you can follow links!
 :::
 
 
-## QGreenland
+:::{.notes}
+I'm Matt Fisher:
 
-What is QGreenland?
+* Mid-career software developer
+* Working at NSIDC
+* Author, with Trey Stafford, of the QGreenland software
+* Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop.
+  More on that soon!
+
+There will be a QR code at the final slide linking to the webpage for this presentation
+where you can, for example, follow these links and learn more about co-authors on this
+talk!
+:::
+
+
+## ![](/_assets/qgreenland_logo.svg){height="1em" style="margin-bottom: 0px;"} What is [QGreenland]{.qgreenland-red}? {.smaller}
+
+::::::{.columns}
+
+:::{.column width="30%"}
+* **All-in-one, open-source, QGreenland-focused GIS environment for offline and online
+  use** with **QGIS**
+* **Curated interdisciplinary data package** for research, learning, decision-making, and
+  collaboration.
 
 <https://qgreenland.org>
+:::
+
+:::{.column width="70%"}
+![](/_assets/qgreenland_overview.png)
+:::
+
+::::::
+
 
 :::{.notes}
-_TODO: Copy from a previous AGU presentation. Emphasize that community education and
-outreach, and therefore workshops, are important parts of our activities._
+_Read the text._
+
+Community education and outreach, and therefore workshops, are important parts of our
+grant-funded activities.
 
 _TODO: Talk about how we're going in to this with little experience?_
 

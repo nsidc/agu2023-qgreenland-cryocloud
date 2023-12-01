@@ -21,12 +21,13 @@ website:
     style: "docked"
     search: true
     contents:
-      - text: "Notes"
-        href: "notes/index.md"
-      - text: "Slides"
+      - text: "🛝 Slides"
         href: "slides/index.md"
-      - text: "References"
+      - text: "📚 References"
         href: "references.md"
+      - text: "---"
+      - text: "🗒️ Notes"
+        href: "notes/index.md"
 
 
 format:

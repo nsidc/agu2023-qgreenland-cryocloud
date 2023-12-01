@@ -7,38 +7,24 @@ date: "2023-11-27"
 ~~Crossed-out items~~ are either resolved or moved elsewhere.
 :::
 
+## Cuts
 
-## Trey: 20 slides is too many!
+### Trey
 
-## ~~Trey: Link to blog post on "Outcomes" slide~~
-
-~~Also link outcomes page on workshop website?~~
-
-
-## ~~Define literate programming in speaker notes~~
-
-
-## ~~Mutually-beneficial arrangement: QR code for jupyter blog post~~
-
-~~"desktop GIS in the cloud": I'll talk about this more in a couple slides~~
-
-
-## Alyse: Video demo
-
-There is a recording of the QGreenland workshop, will make it available on OneDrive or
-something. reach out if urgent! Maybe re-usable footage!
-
-Stills to use on slides!
-
-
-## Trey: too long!
-
-Need to cut things.
+20 slides is too many! Need to cut things.
 
 A lot of the slides could go on for 10 minutes themselves. Re-use them as optional
 slides for Q&A.
 
-### How do we tell a shorter story?
+Cut before recording. There's too much to cut post-recording; it would be janky!
+
+Have to be really high level, short story. We're going to have to cut out meaty things.
+"Hooks" to pull people in.
+
+
+## Tell a shorter story
+
+### Trey
 
 * Our goal/problem
 * How did we achieve the goals?
@@ -48,15 +34,7 @@ slides for Q&A.
 * My email if you have questions. QGreenland email? GitHub Discussions QR code
 
 
-### Cut before recording
-
-There's too much to cut post-recording; it would be janky!
-
-Have to be really high level, short story. We're going to have to cut out meaty things.
-"Hooks" to pull people in.
-
-
-## Alyse
+### Alyse
 
 * 1 slide: goal/problem
 * 1 slide: solution/approach
@@ -69,11 +47,36 @@ Sometimes at AGU first slide is a preview of the whole presentation.
 * Thesis: How to make an online computing environment for a workshop that's globally accessible
 * Why am I speaking? Share what we learned.
 
-Keep intro short. Introduce self, not rest of team.
+
+## Intro
+
+### Alyse
+
+~~Keep intro short. Introduce self, not rest of team.~~
 
 "What is QGreenland" in 5 seconds. PICTURE!! and QR code. Emphasize responsibility to
 educate. Introduce this before or after setting up the problem? Whatever feels more
 natural.
+
+### Trey
+
+Make it really obvious from the start that people are in the right place and
+presentation is what they expected.
+
+
+## Video demo
+
+### Alyse
+
+There is a recording of the QGreenland workshop, will make it available on OneDrive or
+something. reach out if urgent! Maybe re-usable footage!
+
+Stills to use on slides!
+
+
+## Misc
+
+### Alyse
 
 AGU will leave last slide up during Q&A. Put:
 
@@ -85,10 +88,21 @@ AGU will leave last slide up during Q&A. Put:
     - [x] CryoCloud
     - [x] QGreenland researcher workshop site
     - [x] QGreenland educator workshop site
-- [ ] After creating the new "Coming from AGU?" page with all these links, send that to
+- [x] After creating the new "Coming from AGU?" page with all these links, send that to
   Alyse!!
 
 
-## Trey: Make it really obvious from the start that people are in the right place
+### Trey
 
-and presentation is what they expected.
+~~Link to blog post on "Outcomes" slide~~
+
+~~Also link outcomes page on workshop website~~
+
+
+### ???
+
+~~Define literate programming in speaker notes~~
+
+~~Mutually-beneficial arrangement: QR code for jupyter blog post~~
+
+~~"desktop GIS in the cloud": I'll talk about this more in a couple slides~~
