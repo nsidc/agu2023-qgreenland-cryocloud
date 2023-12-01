@@ -226,7 +226,10 @@ participation without requiring travel, which we felt was important.
 
 ## How we got there
 
-![CryoCloud logo](https://book.cryointhecloud.com/_static/logo.png)
+<p align="center">
+[![](https://book.cryointhecloud.com/_static/logo.png){height="300" fig-alt="CryoCloud logo"}](https://cryointhecloud.com)
+[![](https://2i2c.org/media/logo.svg){height="300" fig-alt="2i2c Logo"}](https://2i2c.org)
+</p>
 
 *CryoCloud _JupyterHub_ to the rescue!*
 
@@ -234,6 +237,9 @@ participation without requiring travel, which we felt was important.
 Colleagues with the _CryoCloud_ project run a _JupyterHub_ which aims to transition the
 NASA research community to cloud and open source work patterns, and this aligns well
 with our workshop goals.
+
+The JupyterHub is operated by _International Interactive Computing Collaboration_, a
+fiscally-sponsored non-profit.
 :::
 
 
