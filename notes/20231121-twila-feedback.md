@@ -20,14 +20,16 @@ only clear to me :)
   check out CryoCloud! i.e. "Next steps: Sign up for CryoCloud!"
 - [ ] Accessibility and inclusion goals apply both specifically to our workshop and in a
   community sense.
-- [ ] Logos: QGreenland, CryoCloud, NSF, NSIDC, NASA
+- [x] Logos: QGreenland, CryoCloud, NSF, NSIDC, NASA
 - [x] Title slide: authors, co-authors, affiliations
     - _Note: This is the slide after the title slide._
 - [ ] Look at past AGU slides from QGreenland OneDrive
 - [ ] Title statements can be very short and help build a narrative at a high level
 - [x] "What is QGreenland?" slide: Can find from other talks.
     - [ ] "What is QGIS?"
-- [ ] QR code and/or link to Jupyter Blog post
-    - [ ] anywhere I don't want to go in to more details
-    - [ ] AND end of presentation?
-- [ ] Link (QR code) to QGreenland workshop
+- [x] QR code and/or link to Jupyter Blog post
+    - _Matt: I link to the AGU talk's "References" page which links out to everything
+      else._
+    - [x] anywhere I don't want to go in to more details
+        - _Matt: I mention in speaker notes there's a QR code on last slide_
+- [x] Link to QGreenland workshop

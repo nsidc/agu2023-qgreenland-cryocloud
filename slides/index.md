@@ -3,6 +3,7 @@ title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
 ---
 
+
 ## In this presentation...
 
 * **A community problem**: Technical training is hard!
@@ -70,9 +71,10 @@ I'm Matt Fisher:
 * Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop.
   More on that soon!
 
-There will be a QR code at the final slide linking to the webpage for this presentation
-where you can, for example, follow these links and learn more about co-authors on this
-talk!
+If anything in this talk goes by too quickly, there will be a QR code at the final slide
+linking to the webpage for this presentation. There you can find a copy of the slides
+(including bonus slides), learn more about authors of this talk, and find several links
+we think you might be interested in.
 :::
 
 
@@ -81,7 +83,7 @@ talk!
 ::::::{.columns}
 
 :::{.column width="30%"}
-* **All-in-one, open-source, QGreenland-focused GIS environment for offline and online
+* **All-in-one, open-source, Greenland-focused GIS environment for offline and online
   use** with **QGIS**
 * **Curated interdisciplinary data package** for research, learning, decision-making, and
   collaboration.
@@ -103,8 +105,6 @@ Community education and outreach, and therefore workshops, are important parts o
 grant-funded activities.
 
 _TODO: Talk about how we're going in to this with little experience?_
-
-_TODO: Does CryoCloud belong here to? Or is it OK to get to it later?_
 :::
 
 
@@ -122,139 +122,115 @@ from learning.
 :::
 
 
-## Variance in user systems
+## :desktop_computer: Variance in user systems
 
-An added challenge that distracts from learning.
-
+:::{.fragment}
 * Hardware, operating system, and user comfort level
+:::
 
+:::{.fragment}
 * User configuration
     * Installed programming languages & versions
     * Dependency managers & installed dependency locations
+:::
+
+:::{.fragment}
+:point_up: **Takes time away from teaching, planning, and learning.**
+:::
 
 :::{.notes}
-_TODO: Step through bullets?_
+* I'm only comfortable with one **operating system** myself.
 
-Hardware, OS: I'm only comfortable with one operating system myself.
+* Many learners' **user configurations**, like mine, are customized.
+
+* We all, learners and instructors, only have so much time and attention to give.
 :::
 
 
-## Accessibility
+## 🦻 Accessibility
 
-Lack of accessibility can be a distraction[^accessibility-citation].
+Hardware and operating systems are expensive.
 
-Hardware and operating systems are a financial barrier to learning!
-
-Mention UDL guidelines[^udl-citation]?
-
-> UDL places responsibility for accessibility on the course designer
-> rather than on the learner[^accessibility-responsibility-udl-citation]
-
-[^accessibility-citation]: TODO
-[^udl-citation]: <https://udlguidelines.cast.org/>{target="_blank"}
-[^accessibility-responsibility-udl-citation]: [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/09-eia.html#universal-design-in-learning-udl){target="_blank"}
+Accessibility is our responsibility!
 
 :::{.notes}
-_TODO: Is this the right place to talk about accessibility? Feels like no_
+Hardware is expensive, and operating systems are expensive. This is an accessibility
+barrier!
 
-Hardware is expensive, and operating systems are expensive.
+Not everyone has the time to set up their user configuration and install dependencies
+for a workshop.
 
-Not everyone has the time to set up their user configuration for a workshop.
-
-Accessibility isn't just about finances; it also means involving people
-with disabilities in decision-making. We surveyed our attendees to accommodate
-disabilities, but we did not involve people with disabilities in our decision-making.
-Important to point out?
+As course administrators, we have a responsibility to accessibility. The more accessible
+our workshop activities and materials are, the more people can learn from them.
 :::
 
 
-## Distractions: :thumbsdown:
+# [QGreenland]{.qgreenland-red} workshop
 
-:thumbsdown: Distractions contribute to learners' cognitive load and reduce learning
-effectiveness[^distractions-citation].
-
-:thumbsdown: Distractions consume teaching time.
-
-:thumbsdown: Distractions consume planning time.
-
-[^distractions-citation]: TODO
-
-:::{.notes}
-_TODO: Make text on slide more succinct, move wordy stuff into notes_
-
-Planning: How many helpers do we need? What prep-work do we need participants to do
-(installing software, etc.)? Do we need loaner hardware? This time could be better spent
-on curriculum.
-:::
-
-
-# QGreenland workshop
-
-:::{.notes}
-_TODO: Speaker notes_
-:::
-
-
-## QGreenland workshop
-
-Open source!
+:open_hands: Open source! _TODO: Can/should we say our workshop is FAIR?_
 
 <https://qgreenland-workshop-2023-researcher.github.io/>
 
+:::{.notes}
+There will be a QR code on the last slide that will include this link.
+:::
+
+
+## [QGreenland]{.qgreenland-red} workshop
 
 ### Objectives
 
-:satellite: Run a virtual workshop
+:satellite: Run a virtual, open, accessible workshop
 
 :unicorn: Minimize or eliminate distractions from participants' unique systems
 
 :::{.notes}
-_TODO: Speaker notes_
+We want to run a workshop that's accessible to researchers around the world at all
+career levels.
 
-_TODO: Where to touch on Internet access as a barrier? Here, under "virtual workshop"?
-Or next slide? Or both? Set up the requirement here, and then go in to the concern on
-the next slide?_
+Our workshop requires users to be able to run QGreenland and install several
+dependencies, including GDAL and optionally Git. It's important these are all at
+versions compatible with the materials. We really don't want this to be a distraction
+from learning!
 :::
 
 
-## QGreenland workshop
-
-Open source!
-
-<https://qgreenland-workshop-2023-researcher.github.io/>
-
+## [QGreenland]{.qgreenland-red} workshop
 
 ### Outcomes
 
-:student: 25 learners
+:student: 25 learners :de: :poland: :india: :fr: :canada: :us:
 
-:globe_with_meridians: _TODO: List of countries_
+:woman_scientist: Researchers from all career stages
 
-:woman_scientist: Early- and late-career researchers
+:money_with_wings: Reduced costs by *>~$4000* by collaborating with CryoCloud
 
-_TODO: Jupyter blog post_
-
-_TODO: More_
-
+:ringed_planet: Shared lessons learned in
+[_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
 
 
 :::{.notes}
-Our workshop was able to serve 25 international learners, including `{list of
-countries}`, from career levels `{career level range}`, while limiting technical
-prerequisites to Internet access and a browser.
+Our workshop was able to serve 25 learners from all career stages, representing Germany,
+India, USA, India, Poland, and France. Our only technical prerequisites were Internet
+access and a browser.
 
-_TODO: Better term than late-career?_
+We reduced the costs of setting up compute infrastructure from an expected $4500 to only
+$75 in cloud costs for a 3-day workshop.
 
-_TODO: Talk about cost here?_
+We shared our lessons learned in a post on the _Jupyter Blog_. Our last slide will have
+a QR code that will take you to a page with links, including to this post.
 
-Internet access is no small barrier to participation, but enabled international
-participation without requiring travel, which we felt was important.
+NOTE: Internet access is no small barrier to participation, but our format enabled
+international participation without requiring travel, which we felt was important.
 :::
 
 
 ## How we got there
 
-![CryoCloud logo](https://book.cryointhecloud.com/_static/logo.png)
+<p align="center">
+[![](https://book.cryointhecloud.com/_static/logo.png){height="300" fig-alt="CryoCloud logo"}](https://cryointhecloud.com)
+[![](https://2i2c.org/media/logo.svg){height="300" fig-alt="2i2c Logo"}](https://2i2c.org)
+</p>
 
 *CryoCloud _JupyterHub_ to the rescue!*
 
@@ -262,27 +238,35 @@ participation without requiring travel, which we felt was important.
 Colleagues with the _CryoCloud_ project run a _JupyterHub_ which aims to transition the
 NASA research community to cloud and open source work patterns, and this aligns well
 with our workshop goals.
+
+The JupyterHub is operated by _International Interactive Computing Collaboration_, a
+fiscally-sponsored non-profit.
 :::
 
 
-## _JupyterHub?_
+## :ringed_planet: _JupyterHub?_
 
+:::{.fragment}
 :memo: _Jupyter Notebook_:
-Literate programming file format.
+Interactive computing file format.
+:::
 
+:::{.fragment}
 :desktop_computer: _JupyterLab_:
 A comprehensive browser-based environment for using _Jupyter Notebooks_.
+:::
 
+:::{.fragment}
 :partly_sunny: **_JupyterHub_**:
 _JupyterLab_ in the cloud, **on demand**.
+:::
+
 
 :::{.notes}
 :memo: _Jupyter Notebook_:
-Literate programming file format. May be most familiar of these three. Can be edited
+Interactive computing file format. May be most familiar of these three. Can be edited
 and viewed with various tools including the official Jupyter "notebook server" (`jupyter
 notebook`), VSCode, PyCharm, and Google Colab.
-
-_TODO: Define literate programming_
 
 :desktop_computer: _JupyterLab_:
 A comprehensive browser-based environment for using _Jupyter Notebooks_, including tools
@@ -295,28 +279,151 @@ prior knowledge.
 :::
 
 
-## A mutually-beneficial arrangement
+# :cloud: Desktop GIS in the cloud
 
+_TODO: QGIS logo_
+
+:::{.notes}
+_TODO: Speaker notes_
+:::
+
+
+---
+
+_TODO: Image(s) or very short animation_
+
+:::{.notes}
+This talk is more focused on outcomes and how you can reproduce our success; if you
+want the most detail on this subject, check out our _Jupyter Blog_ post! QR code on the
+last slide.
+:::
+
+
+# 🫵  You can do this too!
+
+:::{.notes}
+_TODO: Speaker notes_
+:::
+
+
+## :money_with_wings: Cost is still high, so...
+
+
+#### :handshake: Collaboration with an existing community was key!
+
+#### 🫵  And you can do this too.
+
+* _TODO: Link to 2i2c hub listing_
+* _TODO: Other resources to find computing communities_
+* _TODO: Suggest operating a hub? How to avoid duplicating work?_
+
+:::{.notes}
+As you saw in the previous slide, setting up a cloud _JupyterHub_ with all the features
+you need for your workshop can be expensive. Because of this, collaborating with an
+existing community was essential if we wanted to pursue this strategy.
+
+We were fortunate to have established connections with _CryoCloud_ to help us get
+started, but I think communities in this space are eager for collaborators.
+
+If you're looking to run a workshop, consider an existing community to collaborate with.
+
+If you're looking to fund these type of activities, consider doing it through operating
+a _JupyterHub_ community!
+:::
+
+
+# :bow: Thank you
+
+{{< include "/logos.md" >}}
+
+Other sessions:
+
+_TODO: Fill out CryoCloud & Openscapes sessions/tutorials. Use the identifier
+ for the presentation. Poster number, title._
+
+:::{.notes}
+Thank you!
+:::
+
+
+## :question: Q&A
+
+::::::{.columns}
+
+:::{.column width="34%"}
+![[https://nsidc.github.io/agu2023-qgreenland-cryocloud/references.html]{style="font-size: 80%;"}](/_assets/qr_references.png)
+:::
+
+:::{.column width="66%"}
+### Contact
+
+`mfisher87@gmail.com`
+
+`qgreenland.info@gmail.com`
+
+Join [CryoCloud](https://cryointhecloud.com) and chat with us on [**GitHub
+Discussions**](https://github.com/nsidc/qgreenland/discussions/)!
+:::
+
+::::::
+
+
+:::{.notes}
+If you follow the QR code, it'll take you to the website for this presentation.
+
+You'll see a collection of links, including on to join us on GitHub Discussions, and
+another to join CryoCloud.
+:::
+
+
+# :tada: Bonus slides
+
+
+## :thumbsdown: Distractions
+
+:thumbsdown: Distractions contribute to learners' cognitive load and reduce learning
+effectiveness.
+
+:thumbsdown: Distractions consume teaching time.
+
+:thumbsdown: Distractions consume planning time.
+
+
+:::{.notes}
+_TODO: Make text on slide more succinct, move wordy stuff into notes_
+
+Planning: How many helpers do we need? What prep-work do we need participants to do
+(installing software, etc.)? Do we need loaner hardware? This time could be better spent
+on curriculum.
+:::
+
+
+## :handshake: A mutually-beneficial collaboration
+
+:::{.fragment}
+#### :money_with_wings: Reduced costs by collaborating!
+
+> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
+>
+> :thumbsup: 2-3 days to setup + ~$75 cloud costs
+:::
+
+:::{.fragment}
 #### :sparkles: Contributed new functionality to the _CryoCloud_ hub
 
-> :::{.nonincremental}
-> * **Open-source desktop GIS in the cloud!**
-> * **11** Pull Requests merged; **9** issues opened
-> :::
+> :open_hands: **Open-source desktop GIS in the cloud!**
+>
+> :tada: **11** Pull Requests merged; **9** issues opened
+:::
 
-
-#### :bulb: Inspired other institutions to replicate our advancements
-
-> :::{.nonincremental}
-> * [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-> * _TODO: QR_
-> :::
-
-
-#### _TODO: Fragments / incremental display on these slides?_
 
 :::{.notes}
 CryoCloud & QGreenland both benefitted from this arrangement.
+
+* Reduced costs benefit our workshop participants by allowing us to focus more on
+  teaching
+    * Without: $4500 + 2-4 weeks setup
+    * With: $0 + 2-3 days setup + $75 cloud operating expenses
 
 * CryoCloud is an inclusive open source project. Running workshops helps expand
   CryoCloud's (and other hubs!) capabilities:
@@ -336,32 +443,20 @@ CryoCloud & QGreenland both benefitted from this arrangement.
         * Improving documentation
         * Improving CI/CD automations
         * Eliminating warnings that distract from learning
-
-* CryoCloud is operated by 2i2c, a fiscally sponsored non-profit, that operates a large
-  number of JupyterHubs.
-    * We published a
-      [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
-      describing our advancements.
-    * As a result, 2i2c reported increased requests from their clients for the
-      functionality we demonstrated in our blog post.
-    * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
 
 
-## A mutually-beneficial arrangement
+---
 
 #### :chart_with_upwards_trend: Supported _CryoCloud_ community growth & evaluation of impact
 
-> :::{.nonincremental}
-> * Our workshop learners joined the _CryoCloud_ community!
-> :::
+> :open_hands: Our workshop learners joined the _CryoCloud_ community!
 
+:::{.fragment}
+#### :bulb: Inspired other institutions to replicate our advancements
 
-#### :money_with_wings: Reduced costs by collaborating!
-
-> :thumbsdown: ~~2-4 weeks + ~$4500 to set up~~
->
-> :thumbsup: 2-3 days to setup + ~$75 cloud costs
+> :ringed_planet: [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+:::
 
 
 :::{.notes}
@@ -369,108 +464,17 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 * Running workshops helps the CryoCloud team gather data (e.g. surveys) to measure their
   impact.
 
-* Reduced costs benefit our workshop participants by allowing us to focus more on
-  teaching
-    * Without: $4500 + 2-4 weeks setup
-    * With: $0 + 2-3 days setup + $75 cloud operating expenses
+* We published a
+  [Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+  describing our advancements. There will be a QR code at the end.
+    * As a result, 2i2c reported increased requests from their clients for the
+      functionality we demonstrated in our blog post.
+    * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
-
-
-# Desktop GIS in the cloud
-
-:::{.notes}
-_TODO: Speaker notes_
-:::
-
-
-## Desktop GIS in the cloud
-
-Our Jupyter Blog post[^jupyter-blog] provides the most detail!
-
-_TODO: Short demo here; image(s)? Animation?_
-
-[^jupyter-blog]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a
-
-:::{.notes}
-This talk is more focused on outcomes and how you can reproduce our success; if your
-want the most detail on this subject, check out our post!
-
-_TODO: What level of detail/how much time to spend on this?_
-:::
-
-
-# Replication
-
-:::{.notes}
-_TODO: Speaker notes_
-:::
-
-
-## Cost is still high
-
-* Collaboration with an existing community was key!
-    * We were lucky to have good connections, but...
-* You can do that too.
-    * _TODO: Link to 2i2c hub listing_
-    * _TODO: Other resources to find computing communities_
-* _TODO: Suggest operating a hub? How to avoid duplicating work?_
-
-:::{.notes}
-As you saw in the previous slide, setting up a cloud _JupyterHub_ with all the features
-you need for your workshop can be expensive. Because of this, collaborating with an
-existing community was essential if we wanted to pursue this strategy.
-
-We were fortunate to have established connections with _CryoCloud_ to help us get
-started, but I think you can "cold call" communities; they are eager for collaborators.
-
-If you're looking to run a workshop, consider an existing community to collaborate with.
-
-If you're looking to fund these type of activities, consider doing it through operating
-a _JupyterHub_ community!
-:::
-
-
-# Thank you
-
-:bow:
-
-
-## Acknowledgements
-
-_TODO_
-
-
-## :question: Q&A
-
-_TODO: QR code for "references" page of this site_
-
-
-### Contact
-
-Me: `mfisher87@gmail.com`
-
-QGreenland Team: `qgreenland.info@gmail.com`
-
-
-# Additional slides
-
-:tada:
 
 
 ## TODO
 
-- [ ] Better structure for intro. "In this presentation, we will talk about ...,
-  outcomes, and how you can take advantage of what we learned."
 - [ ] Better narrative structure for the workshop. We needed X, Y, Z to do our workshop
   in the cloud. QGIS and QGreenland were of course the most important requirements.
-- [ ] Point to CryoCloud's & Openscapes' sessions/tutorials.
-    * Twila: Last slide, or slide before conclusion. QR code? Also use the identifier
-      for the presentation. Poster number, title.
-- [ ] "Outcome" bigger picture.
-    * Twila: Highlight how other people can benefit from what we learned.
-- [ ] Consider where to use incremental display on slides. E.g. JupyterHub intro slide?
-  Mutual benefit slides?
-- [ ] Link to our "outcomes" page. "References" page. Other "lessons learned"
-  documents/pages?
 - [ ] Acknowledgements
-- [ ] Logos

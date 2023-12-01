@@ -26,6 +26,6 @@ format:
     chalkboard:
       buttons: true
     preview-links: "auto"
-    logo: "https://nsidc.org/themes/custom/nsidc/logo.svg"
+    logo: "/_assets/qgreenland_logo.svg"
     footer: "[Home](/)"
     transition: "none"
