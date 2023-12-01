@@ -24,7 +24,7 @@ format:
 
     slide-number: true
     chalkboard:
-      buttons: true
+      buttons: false
     preview-links: "auto"
     logo: "/_assets/qgreenland_logo.svg"
     footer: "[Home](/)"
