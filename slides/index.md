@@ -245,14 +245,21 @@ fiscally-sponsored non-profit.
 
 ## :ringed_planet: _JupyterHub?_
 
+:::{.fragment}
 :memo: _Jupyter Notebook_:
-Literate programming file format.
+Interactive computing file format.
+:::
 
+:::{.fragment}
 :desktop_computer: _JupyterLab_:
 A comprehensive browser-based environment for using _Jupyter Notebooks_.
+:::
 
+:::{.fragment}
 :partly_sunny: **_JupyterHub_**:
 _JupyterLab_ in the cloud, **on demand**.
+:::
+
 
 :::{.notes}
 :memo: _Jupyter Notebook_:
