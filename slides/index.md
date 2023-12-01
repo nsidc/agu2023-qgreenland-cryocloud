@@ -122,7 +122,7 @@ from learning.
 :::
 
 
-## Variance in user systems
+## :desktop_computer: Variance in user systems
 
 :::{.fragment}
 * Hardware, operating system, and user comfort level
@@ -147,7 +147,7 @@ from learning.
 :::
 
 
-## Accessibility
+## 🦻 Accessibility
 
 Lack of accessibility can be a distraction[^accessibility-citation].
 
@@ -176,19 +176,18 @@ Important to point out?
 :::
 
 
-# QGreenland workshop
+# [QGreenland]{.qgreenland-red} workshop
 
-:::{.notes}
-_TODO: Speaker notes_
-:::
-
-
-## QGreenland workshop
-
-Open source!
+:open_hands: Open source!
 
 <https://qgreenland-workshop-2023-researcher.github.io/>
 
+:::{.notes}
+There will be a QR code on the last slide that will include this link.
+:::
+
+
+## [QGreenland]{.qgreenland-red} workshop
 
 ### Objectives
 
@@ -205,12 +204,7 @@ the next slide?_
 :::
 
 
-## QGreenland workshop
-
-Open source!
-
-<https://qgreenland-workshop-2023-researcher.github.io/>
-
+## [QGreenland]{.qgreenland-red} workshop
 
 ### Outcomes
 
@@ -220,10 +214,11 @@ Open source!
 
 :woman_scientist: Early- and late-career researchers
 
-_TODO: Jupyter blog post_
-
 _TODO: More_
 
+_TODO: Jupyter blog post? (it's mentioned multiple times soon... perhaps if we talk
+about cost and the Jupyter Blog post here, we can move more slides to the additional
+section.)_
 
 
 :::{.notes}
@@ -233,7 +228,7 @@ prerequisites to Internet access and a browser.
 
 _TODO: Better term than late-career?_
 
-_TODO: Talk about cost here?_
+_TODO: Talk about cost here? If we want to eliminate/reduce future slides?_
 
 Internet access is no small barrier to participation, but enabled international
 participation without requiring travel, which we felt was important.
@@ -253,7 +248,7 @@ with our workshop goals.
 :::
 
 
-## _JupyterHub?_
+## :ringed_planet: _JupyterHub?_
 
 :memo: _Jupyter Notebook_:
 Literate programming file format.
@@ -283,7 +278,7 @@ prior knowledge.
 :::
 
 
-## A mutually-beneficial arrangement
+## :handshake: A mutually-beneficial collaboration
 
 #### :sparkles: Contributed new functionality to the _CryoCloud_ hub
 
@@ -364,14 +359,14 @@ CryoCloud & QGreenland both benefitted from this arrangement.
 :::
 
 
-# Desktop GIS in the cloud
+# :cloud: Desktop GIS in the cloud
 
 :::{.notes}
 _TODO: Speaker notes_
 :::
 
 
-## Desktop GIS in the cloud
+## :cloud: Desktop GIS in the cloud
 
 Our Jupyter Blog post[^jupyter-blog] provides the most detail!
 
@@ -387,14 +382,14 @@ _TODO: What level of detail/how much time to spend on this?_
 :::
 
 
-# Replication
+# 🫵  You can do this too!
 
 :::{.notes}
 _TODO: Speaker notes_
 :::
 
 
-## :money_with_wings: Cost is still high
+## :money_with_wings: Cost is still high, so...
 
 * Collaboration with an existing community was key!
     * We were lucky to have good connections, but...
@@ -409,7 +404,7 @@ you need for your workshop can be expensive. Because of this, collaborating with
 existing community was essential if we wanted to pursue this strategy.
 
 We were fortunate to have established connections with _CryoCloud_ to help us get
-started, but I think you can "cold call" communities; they are eager for collaborators.
+started, but I think communities in this space are eager for collaborators.
 
 If you're looking to run a workshop, consider an existing community to collaborate with.
 
