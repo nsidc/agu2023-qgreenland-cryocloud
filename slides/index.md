@@ -149,30 +149,19 @@ from learning.
 
 ## 🦻 Accessibility
 
-Lack of accessibility can be a distraction[^accessibility-citation].
+Hardware and operating systems are expensive.
 
-Hardware and operating systems are a financial barrier to learning!
-
-Mention UDL guidelines[^udl-citation]?
-
-> UDL places responsibility for accessibility on the course designer
-> rather than on the learner[^accessibility-responsibility-udl-citation]
-
-[^accessibility-citation]: TODO
-[^udl-citation]: <https://udlguidelines.cast.org/>{target="_blank"}
-[^accessibility-responsibility-udl-citation]: [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/09-eia.html#universal-design-in-learning-udl){target="_blank"}
+Accessibility is our responsibility!
 
 :::{.notes}
-_TODO: Is this the right place to talk about accessibility? Feels like no_
+Hardware is expensive, and operating systems are expensive. This is an accessibility
+barrier!
 
-Hardware is expensive, and operating systems are expensive.
+Not everyone has the time to set up their user configuration and install dependencies
+for a workshop.
 
-Not everyone has the time to set up their user configuration for a workshop.
-
-Accessibility isn't just about finances; it also means involving people
-with disabilities in decision-making. We surveyed our attendees to accommodate
-disabilities, but we did not involve people with disabilities in our decision-making.
-Important to point out?
+As course administrators, we have a responsibility to accessibility. The more accessible
+our workshop activities and materials are, the more people can learn from them.
 :::
 
 
