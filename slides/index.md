@@ -290,17 +290,14 @@ _TODO: Speaker notes_
 :::
 
 
-## :cloud: Desktop GIS in the cloud
-
-Our Jupyter Blog post[^jupyter-blog] provides the most detail!
+---
 
 _TODO: Image(s) or very short animation_
 
-[^jupyter-blog]: https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a
-
 :::{.notes}
 This talk is more focused on outcomes and how you can reproduce our success; if you
-want the most detail on this subject, check out our blog post!
+want the most detail on this subject, check out our _Jupyter Blog_ post! QR code on the
+last slide.
 :::
 
 
