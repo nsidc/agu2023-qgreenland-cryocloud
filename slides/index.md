@@ -147,9 +147,8 @@ Windows expert on the teaching team?
 :::
 
 :::{.notes}
-This is only one of the things that makes technical training hard. In this talk,
-we'll focus on variance in user systems as a distraction from all the things we just
-talked about in the previous slide..
+In this talk, we'll zoom in on variance in user systems as a distraction from all the
+other important things we just talked about.
 
 * I'm only comfortable with one **operating system** myself.
 
@@ -166,11 +165,12 @@ Hardware and operating systems are expensive.
 Accessibility is our responsibility!
 
 :::{.notes}
-Hardware is expensive, and operating systems are expensive. This is an accessibility
-barrier!
+Hardware is expensive, and operating systems are expensive.
 
 Not everyone has the time to set up their user configuration and install dependencies
 for a workshop.
+
+This is an accessibility barrier!
 
 As course administrators, we have a responsibility to accessibility. The more accessible
 our workshop activities and materials are, the more people can learn from them.
