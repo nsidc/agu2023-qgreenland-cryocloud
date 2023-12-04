@@ -115,10 +115,18 @@ Technical training is hard!
 :::{.notes}
 Planning and administering technical training is hard.
 
-_TODO: Why? All the things..._
+We need to consider your topic carefully, and make sure it's sized right for the time
+you have.
 
-In this talk, we're going to focus on variance in user systems as a common distraction
-from learning.
+We need to build up knowledge in the correct order.
+
+We need to design exercises that will help learners remember their new knowledge.
+
+We need to figure out how breakout rooms in Zoom work.
+
+On top of these things, we need to worry about how learners will set up technical
+requirements. For our workshop, do we need loaner laptops? Do we need a Mac expert and a
+Windows expert on the teaching team?
 :::
 
 
@@ -139,6 +147,10 @@ from learning.
 :::
 
 :::{.notes}
+This is only one of the things that makes technical training hard. In this talk,
+we'll focus on variance in user systems as a distraction from all the things we just
+talked about in the previous slide..
+
 * I'm only comfortable with one **operating system** myself.
 
 * Many learners' **user configurations**, like mine, are customized.
