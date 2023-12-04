@@ -179,26 +179,46 @@ our workshop activities and materials are, the more people can learn from them.
 
 # [QGreenland]{.qgreenland-red} workshop
 
-:open_hands: Open source! _TODO: Can/should we say our workshop is FAIR?_
-
-<https://qgreenland-workshop-2023-researcher.github.io/>
-
 :::{.notes}
-There will be a QR code on the last slide that will include this link.
+This slide is just a separator, skip through it.
 :::
 
 
-## [QGreenland]{.qgreenland-red} workshop
+## [QGreenland]{.qgreenland-red} workshop objectives
 
-### Objectives
+:::{.fragment}
+:satellite: Run a virtual workshop
+:::
 
-:satellite: Run a virtual, open, accessible workshop
+:::{.fragment}
+:test_tube: Follow FAIR open science principles
 
-:unicorn: Minimize or eliminate distractions from participants' unique systems
+> :::{.nonincremental}
+> * **F**indable
+> * **A**ccessible :star:
+> * **I**nteroperable
+> * **R**eusable :star:
+> :::
+:::
+
+:::{.fragment}
+:unicorn: Minimize or eliminate distractions from system variance
+:::
 
 :::{.notes}
-We want to run a workshop that's accessible to researchers around the world at all
-career levels.
+We want to run a virtual workshop that's accessible to researchers around the world at
+all career levels.
+
+Because we're teaching FAIR scientific data principles, we want our workshop to also
+embody those principles. We gave ourselves a star where we think we did particularly
+well.
+
+* F: Our workshop is available as a website and as a public Git repository. We're doing
+  outreach to share the materials and outcomes.
+* A: Anyone can contribute to or learn from our materials using open protocols
+  (HTTP/Git). We provided a small stipend to support equitable participation.
+* I: Our source materials are in a common authoring format: Markdown
+* R: We bundled documentation to support others re-running our workshop.
 
 Our workshop requires users to be able to run QGreenland and install several
 dependencies, including GDAL and optionally Git. It's important these are all at
@@ -207,24 +227,30 @@ from learning!
 :::
 
 
-## [QGreenland]{.qgreenland-red} workshop
+## [QGreenland]{.qgreenland-red} workshop outcomes
 
-### Outcomes
-
+:::{.fragment}
 :student: 25 learners :de: :poland: :india: :fr: :canada: :us:
+:::
 
+:::{.fragment}
 :woman_scientist: Researchers from all career stages
+:::
 
-:money_with_wings: Reduced costs by *>~$4000* by collaborating with CryoCloud
+:::{.fragment}
+:money_with_wings: Reduced costs by *>$4000* by collaborating with CryoCloud
+:::
 
+:::{.fragment}
 :ringed_planet: Shared lessons learned in
 [_Jupyter Blog_ post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+:::
 
 
 :::{.notes}
 Our workshop was able to serve 25 learners from all career stages, representing Germany,
-Poland, India, France, Canada, and the US. Our only technical prerequisites
-were Internet access and a browser.
+Poland, India, France, Canada, and the US. Our only technical prerequisites were
+Internet access and a browser.
 
 NOTE: Internet access is no small barrier to participation, but our format enabled
 international participation without requiring travel, which we felt was important.
@@ -232,8 +258,9 @@ international participation without requiring travel, which we felt was importan
 We reduced the costs of setting up compute infrastructure from an expected $4500 to only
 $75 in cloud costs for a 3-day workshop.
 
-We shared our lessons learned in a post on the _Jupyter Blog_. Our last slide will have
-a QR code that will take you to a page with links, including to this post.
+There will be a QR code on the last slide that will include a link to our workshop
+materials, details about outcomes, and a guest post we published on the _Jupyter Blog_
+about our work.
 :::
 
 

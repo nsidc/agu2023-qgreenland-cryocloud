@@ -9,24 +9,26 @@
   running workshops, especially 3-day ones, and this enabled us to focus more on the
   important parts of that.
 
-- [ ] Workshop title slide: Remove?
+- [x] Workshop title slide: Remove?
+    - _Matt: I kept it for organizational purposes, but removed all text and the speaker
+        note clarifies that the slide is only structural to divide sections of the
+        talk._
 
 - [ ] Workshop objectives:
-  - [ ] "Run a virtual workshop"
-  - [ ] "Open source"
-  - [ ] "Try to achieve F, A, I, R" list them out
-  - [ ] "Minimize/eliminate distractions..."
-- [ ] Can list out "FAIR" principles and put a star next to the ones
+  - [x] "Run a virtual workshop"
+  - [x] "Open source"
+  - [x] "Try to achieve F, A, I, R" list them out
+  - [x] "Minimize/eliminate distractions..."
+- [x] Can list out "FAIR" principles and put a star next to the ones
   we think we excelled in.
 
-- [ ] Consider incremental on objectives/outcomes slides
+- [x] Consider incremental on objectives/outcomes slides
 
+- [x] Participants received a small stipend (FAIR):
+  - [x] "25 learners from all career stages"
+  - [x] "Small stipend to support participation" (mention equity, accessibility in script)
 
-- [ ] Participants received a small stipend (FAIR):
-  - [ ] "25 learners from all career stages"
-  - [ ] "Small stipend to support participation" (mention equity, accessibility in script)
-
-- [ ] ">~$4000" ">$4000"
+- [x] ">~$4000" ">$4000"
 
 - [ ] Show the animation of what we did. Start on the AGU website to prove that we're in a
   browser.
