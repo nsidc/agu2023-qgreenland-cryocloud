@@ -351,8 +351,10 @@ last slide.
 
 #### 🫵  And you can do this too.
 
-* [Sign up for CryoCloud](https://book.cryointhecloud.com/content/Getting_Started.html)
-* [See a list of 2i2c JupyterHubs](https://infrastructure.2i2c.org/reference/hubs/)
+> :::{.nonincremental}
+> * [Sign up for CryoCloud](https://book.cryointhecloud.com/content/Getting_Started.html)
+> * [See a list of 2i2c JupyterHubs](https://infrastructure.2i2c.org/reference/hubs/)
+> :::
 
 :::{.notes}
 As you saw in a previous slide, setting up a cloud _JupyterHub_ with all the features
