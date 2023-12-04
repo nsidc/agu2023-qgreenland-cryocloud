@@ -400,7 +400,7 @@ Thank you!
 :::{.column width="66%"}
 ### Contact
 
-`mfisher87@gmail.com`
+`Matthew.J.Fisher@colorado.edu`
 
 `qgreenland.info@gmail.com`
 
@@ -514,10 +514,3 @@ CryoCloud & QGreenland both benefitted from this arrangement.
       functionality we demonstrated in our blog post.
     * More _JupyterHubs_ adopted QGIS desktop functionality.
 :::
-
-
-## TODO
-
-- [ ] Better narrative structure for the workshop. We needed X, Y, Z to do our workshop
-  in the cloud. QGIS and QGreenland were of course the most important requirements.
-- [ ] Acknowledgements

@@ -42,7 +42,7 @@
 
 - [x] Remove "Suggest operating a hub?" TODO.
 
-- [ ] Switch to institutional email address.
+- [x] Switch to institutional email address.
 
 
 ## Delivery
