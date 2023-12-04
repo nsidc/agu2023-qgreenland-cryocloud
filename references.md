@@ -17,6 +17,7 @@ title: "References"
 * [CryoCloud official site](https://cryointhecloud.com/): Sign up!
 * [QGreenland official site](https://qgreenland.org)
     * [QGreenland Python source](https://github.com/nsidc/qgreenland)
+* [List of 2i2c JupyterHub communities](https://infrastructure.2i2c.org/reference/hubs/)
 
 
 ## :tada: Extra

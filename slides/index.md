@@ -341,7 +341,6 @@ last slide.
 # 🫵  You can do this too!
 
 :::{.notes}
-_TODO: Speaker notes_
 :::
 
 
@@ -352,9 +351,8 @@ _TODO: Speaker notes_
 
 #### 🫵  And you can do this too.
 
-* _TODO: Link to 2i2c hub listing_
-* _TODO: Other resources to find computing communities_
-* _TODO: Suggest operating a hub? How to avoid duplicating work?_
+* [Sign up for CryoCloud](https://book.cryointhecloud.com/content/Getting_Started.html)
+* [See a list of 2i2c JupyterHubs](https://infrastructure.2i2c.org/reference/hubs/)
 
 :::{.notes}
 As you saw in a previous slide, setting up a cloud _JupyterHub_ with all the features
@@ -362,9 +360,15 @@ you need for your workshop can be expensive. Because of this, collaborating with
 existing community was essential if we wanted to pursue this strategy.
 
 We were fortunate to have established connections with _CryoCloud_ to help us get
-started, but I think communities in this space are eager for collaborators.
+started, but I think communities in this space are eager for collaborators. We brought
+value to all future users of the hub by making QGIS and QGreenland readily available,
+and we helped grow the community by onboarding our learners as new users.
 
-If you're looking to run a workshop, consider an existing community to collaborate with.
+If you're looking to run a workshop, consider an existing community to collaborate with,
+like CryoCloud!
+
+On our last slide, follow the QR code to find a link to a list of all 2i2c JupyterHubs,
+that's a great starting place! There appear to be around 70 running hubs.
 
 If you're looking to fund these type of activities, consider doing it through operating
 a _JupyterHub_ community!

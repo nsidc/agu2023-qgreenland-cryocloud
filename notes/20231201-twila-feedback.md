@@ -14,7 +14,7 @@
         note clarifies that the slide is only structural to divide sections of the
         talk._
 
-- [ ] Workshop objectives:
+- [x] Workshop objectives:
   - [x] "Run a virtual workshop"
   - [x] "Open source"
   - [x] "Try to achieve F, A, I, R" list them out
@@ -33,14 +33,14 @@
 - [ ] Show the animation of what we did. Start on the AGU website to prove that we're in a
   browser.
 
-- [ ] Cost slide: Mention in script QGIS and QGreenland being readily available as a
+- [x] Cost slide: Mention in script QGIS and QGreenland being readily available as a
   benefit. Briefly mention other side benefits like bringing new users to hub. When I
   say "eager for collaborators". How can that be a bullet on the slide?
 
-- [ ] "Other resources to find computing communities", just say "look at the 2i2c hub
+- [x] "Other resources to find computing communities", just say "look at the 2i2c hub
   listing, or seek out other interactive computing communities that run JupyterHubs"
 
-- [ ] Remove "Suggest operating a hub?" TODO.
+- [x] Remove "Suggest operating a hub?" TODO.
 
 - [ ] Switch to institutional email address.
 
