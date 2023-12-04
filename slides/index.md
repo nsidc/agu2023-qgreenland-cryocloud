@@ -320,10 +320,10 @@ prior knowledge.
 
 # :cloud: Desktop GIS in the cloud
 
-_TODO: QGIS logo_
+![QGIS logo](/_assets/qgis_logo.svg){fig-align="left" height="128"}
 
 :::{.notes}
-_TODO: Speaker notes_
+Now let's look at a quick demo of the GIS experience we set up for our workshop.
 :::
 
 
@@ -377,17 +377,29 @@ a _JupyterHub_ community!
 :::
 
 
-# :bow: Thank you
+# :bow: Thank you {.smaller}
 
 {{< include "/logos.md" >}}
 
-Other sessions:
+Also at AGU:
 
-_TODO: Fill out CryoCloud & Openscapes sessions/tutorials. Use the identifier
- for the presentation. Poster number, title._
+* [U24B-03](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1494327):
+ _CryoCloud JupyterHub for NASA Cryosphere communities: Open science in the cloud as a
+ process, not a product_
+* [SH51A-04](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1368324):
+  _NASA Openscapes approaches and stories of kinder, open science in the Cloud_
+* [SH51A-06](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1401136):
+  _Accelerating scientific discovery for NASA Cryosphere communities with the CryoCloud
+  JupyterHub_
+
 
 :::{.notes}
 Thank you!
+
+There are some other sessions coming up that you might be interested listed on this
+slide. Again, the QR code at the end will take you to a website where you can find these
+slides in case you missed a session number. U24B-03 is coming up later today, the others
+are on Friday.
 :::
 
 
