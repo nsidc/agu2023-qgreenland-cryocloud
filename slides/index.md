@@ -7,7 +7,7 @@ subtitle: "An open GIS collaboration for education and research"
 ## In this presentation...
 
 * **A problem in our community**: Technical training is hard!
-* **(Part of?) the solution**: Teaching on a JupyterHub to reduce distractions, improve
+* **(Part of) the solution**: Teaching on a JupyterHub to reduce distractions, improve
   accessibility, and enhance learning. _A [**QGreenland**]{.qgreenland-red}
   workshop collaboration success story._
 * **How you can do it to**: Check out [**CryoCloud**](https://cryointhecloud.com)!
@@ -53,10 +53,9 @@ This could be an option for your next workshop!
      https://github.com/quarto-dev/quarto-cli/issues/5440 --->
 
 :::{style="font-size:60%;"}
-1: [National Snow and Ice Data Center (NSIDC)](https://nsidc.org)
+1: [National Snow and Ice Data Center (NSIDC), University of Colorado Boulder](https://nsidc.org)
 
-2: [Cooperative Institute for Research in Environmental Sciences
-(CIRES)](https://cires.colorado.edu)
+2: [Cooperative Institute for Research in Environmental Sciences (CIRES), University of Colorado Boulder](https://cires.colorado.edu)
 
 3: [Colorado School of Mines](https://www.mines.edu/)
 :::
@@ -68,8 +67,9 @@ I'm Matt Fisher:
 * Mid-career software developer
 * Working at NSIDC
 * Author, with Trey Stafford, of the QGreenland software
-* Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop.
-  More on that soon!
+* Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop
+  this year. More on that soon! At the time, both Trey and myself were new to developing
+  technical training and acting as instructor, so we learned a lot as we went.
 
 If anything in this talk goes by too quickly, there will be a QR code at the final slide
 linking to the webpage for this presentation. There you can find a copy of the slides

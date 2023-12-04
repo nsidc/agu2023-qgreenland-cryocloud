@@ -1,56 +1,56 @@
 # Feedback from twila
 
-* `(Part of?) the solution` -> `(Part of) the solution`
+- [x] `(Part of?) the solution` -> `(Part of) the solution`
 
-* On intro slide, add ", University of Colorado Boulder" to both CIRES and NSIDC
+- [x] On intro slide, add ", University of Colorado Boulder" to both CIRES and NSIDC
   footnotes
 
-* _Do_ note that Trey and I were going in to the workshop with little/no experience
+- [x] _Do_ note that Trey and I were going in to the workshop with little/no experience
   running workshops, especially 3-day ones, and this enabled us to focus more on the
-  important parts of that..
+  important parts of that.
 
-* Workshop title slide: Remove?
+- [ ] Workshop title slide: Remove?
 
-* Workshop objectives:
-  * "Run a virtual workshop"
-  * "Open source"
-  * "Try to achieve F, A, I, R" list them out
-  * "Minimize/eliminate distractions..."
-* Can list out "FAIR" principles and put a star next to the ones
+- [ ] Workshop objectives:
+  - [ ] "Run a virtual workshop"
+  - [ ] "Open source"
+  - [ ] "Try to achieve F, A, I, R" list them out
+  - [ ] "Minimize/eliminate distractions..."
+- [ ] Can list out "FAIR" principles and put a star next to the ones
   we think we excelled in.
 
-* Consider incremental on objectives/outcomes slides
+- [ ] Consider incremental on objectives/outcomes slides
 
 
-* Participants received a small stipend (FAIR):
-  * "25 learners from all career stages"
-  * "Small stipend to support participation" (mention equity, accessibility in script)
+- [ ] Participants received a small stipend (FAIR):
+  - [ ] "25 learners from all career stages"
+  - [ ] "Small stipend to support participation" (mention equity, accessibility in script)
 
-* ">~$4000" ">$4000"
+- [ ] ">~$4000" ">$4000"
 
-* Show the animation of what we did. Start on the AGU website to prove that we're in a
+- [ ] Show the animation of what we did. Start on the AGU website to prove that we're in a
   browser.
 
-* Cost slide: Mention in script QGIS and QGreenland being readily available as a
+- [ ] Cost slide: Mention in script QGIS and QGreenland being readily available as a
   benefit. Briefly mention other side benefits like bringing new users to hub. When I
   say "eager for collaborators". How can that be a bullet on the slide?
 
-* "Other resources to find computing communities", just say "look at the 2i2c hub
+- [ ] "Other resources to find computing communities", just say "look at the 2i2c hub
   listing, or seek out other interactive computing communities that run JupyterHubs"
 
-* Remove "Suggest operating a hub?" TODO.
+- [ ] Remove "Suggest operating a hub?" TODO.
 
-* Switch to institutional email address.
+- [ ] Switch to institutional email address.
 
 
 ## Delivery
 
-* Underline some phrases or add a symbol for taking a pause
+- [ ] Underline some phrases or add a symbol for taking a pause
 
-* Know the script well enough to focus on how you're saying things instead of
+- [ ] Know the script well enough to focus on how you're saying things instead of
   remembering what to say.
 
-* Add phrases that should be emphasized, use exclamation point or punctuation, emphasis,
+- [ ] Add phrases that should be emphasized, use exclamation point or punctuation, emphasis,
   etc. to remind that.
 
 
