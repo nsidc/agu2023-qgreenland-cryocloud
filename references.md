@@ -20,6 +20,11 @@ title: "References"
 * [List of 2i2c JupyterHub communities](https://infrastructure.2i2c.org/reference/hubs/)
 
 
+### Other sessions at AGU following this one
+
+{{< include /other_sessions.md >}}
+
+
 ## :tada: Extra
 
 * [QGreenland 2023 Educator Workshop](https://qgreenland-workshop-2023-educator.github.io/)
