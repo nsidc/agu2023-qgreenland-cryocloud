@@ -230,15 +230,15 @@ from learning!
 ## [QGreenland]{.qgreenland-red} workshop outcomes
 
 :::{.fragment}
-:student: 25 learners :de: :poland: :india: :fr: :canada: :us:
-:::
-
-:::{.fragment}
-:woman_scientist: Researchers from all career stages
+:woman_scientist: 25 learners from all career stages :de: :poland: :india: :fr: :canada: :us:
 :::
 
 :::{.fragment}
 :money_with_wings: Reduced costs by *>$4000* by collaborating with CryoCloud
+:::
+
+:::{.fragment}
+:evergreen_tree: Produced sustainable, re-usable materials
 :::
 
 :::{.fragment}
@@ -248,9 +248,9 @@ from learning!
 
 
 :::{.notes}
-Our workshop was able to serve 25 learners from all career stages, representing Germany,
-Poland, India, France, Canada, and the US. Our only technical prerequisites were
-Internet access and a browser.
+25 learners from all career stages, representing Germany, Poland, India, France, Canada,
+and the US completed our workshop. Our only technical prerequisites were Internet access
+and a browser.
 
 NOTE: Internet access is no small barrier to participation, but our format enabled
 international participation without requiring travel, which we felt was important.
@@ -258,9 +258,14 @@ international participation without requiring travel, which we felt was importan
 We reduced the costs of setting up compute infrastructure from an expected $4500 to only
 $75 in cloud costs for a 3-day workshop.
 
+We produced open-source educational materials that will be useful even now that our
+workshop is complete.
+
+And we did outreach activities like a guest post on the _Jupyter Blog_ to share what we
+learned.
+
 There will be a QR code on the last slide that will include a link to our workshop
-materials, details about outcomes, and a guest post we published on the _Jupyter Blog_
-about our work.
+materials, details about outcomes, and the _Jupyter Blog_ post.
 :::
 
 
