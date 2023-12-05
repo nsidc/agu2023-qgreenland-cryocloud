@@ -354,7 +354,7 @@ Now let's look at a quick demo of the GIS experience we set up for our workshop.
 * My JupyterLab cloud instance is ready!
 * Just fast forwarding through pointing out a few cool things JupyterLab can do, like
   previewing GeoJSON...
-* Let's open the deskop
+* Let's open the desktop
 * Let's navigate to and open QGreenland
 * Let's just explore some stuff that looks interesting. I'm looking at the "Runoff"
   variable from the RACMO climate model.
