@@ -329,12 +329,39 @@ Now let's look at a quick demo of the GIS experience we set up for our workshop.
 
 ---
 
-_TODO: Image(s) or very short animation_
+<iframe
+  width="560" height="315"
+  title="YouTube video player"
+  src="https://www.youtube.com/embed/3mvfxIxx3Hw?si=fAq68sz2T1LtZHvr"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  style="display: block; margin: 0 auto;">
+</iframe>
 
 :::{.notes}
-This talk is more focused on outcomes and how you can reproduce our success; if you
-want the most detail on this subject, check out our _Jupyter Blog_ post! QR code on the
-last slide.
+* Look, we're in the browser, starting off on the AGU website, then navigating to
+  `CryoInTheCloud.com`
+* We'll navigate to their _JupyterHub_ link, click "login"
+* We have a few options for our cloud server that'll be provisioned. I want Python, and
+  1 CPU.
+* This loading part is in real-time
+* My JupyterLab cloud instance is ready!
+* Just fast forwarding through pointing out a few cool things JupyterLab can do, like
+  previewing GeoJSON...
+* Let's open the deskop
+* Let's navigate to and open QGreenland
+* Let's just explore some stuff that looks interesting. I'm looking at the "Runoff"
+  variable from the RACMO climate model.
+* This looks cool, so I want to see satellite imagery of the area.
+* I found a neat looking feature, so I decided to measure it, and it's a bit over 4km
+  across.
+* You can of course use any other QGIS analysis or processing features. This is just to
+  share how smooth the desktop experience feels in the cloud!
+
+This talk is more focused on how this helped us improve learning outcomes; if you want
+technical detail on this subject, check out our _Jupyter Blog_ post! QR code on the last
+slide.
 :::
 
 
@@ -345,7 +372,6 @@ last slide.
 
 
 ## :money_with_wings: Cost is still high, so...
-
 
 #### :handshake: Collaboration with an existing community was key!
 
