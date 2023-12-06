@@ -414,7 +414,7 @@ a _JupyterHub_ community!
 
 Also at AGU:
 
-{{< include /other_sessions.md >}}
+{{< include /other_presentations.md >}}
 
 
 :::{.notes}

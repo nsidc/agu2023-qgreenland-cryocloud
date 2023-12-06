@@ -31,7 +31,7 @@ title: "References"
 
 ### Other presentations at AGU following this one
 
-{{< include /other_sessions.md >}}
+{{< include /other_presentations.md >}}
 
 
 ## :tada: Extra
