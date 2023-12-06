@@ -275,8 +275,7 @@ time.
 And we did outreach activities like a guest post on the _Jupyter Blog_ to share what we
 learned.
 
-There will be a QR code on the last slide that will include a link to our workshop
-materials, details about outcomes, and the _Jupyter Blog_ post.
+The QR code on the last slide will take you to that post.
 :::
 
 
@@ -289,11 +288,11 @@ materials, details about outcomes, and the _Jupyter Blog_ post.
 
 *CryoCloud _JupyterHub_ to the rescue!*
 
+
 :::{.notes}
-Colleagues with the _CryoCloud_ project, with the goal of transitioning the
-NASA research community to cloud and open source work patterns, operate a _JupyterHub_.
-Our participants did their work on this cloud platform instead of on their
-personal computers.
+The _CryoCloud_ project aims to transition the NASA research community to cloud and open
+source work patterns. Our participants did their work on CryoCloud's _JupyterHub_
+instead of on their personal computers.
 
 The CryoCloud JupyterHub is operated by _International Interactive Computing
 Collaboration_, a fiscally-sponsored non-profit.
@@ -314,12 +313,12 @@ A comprehensive browser-based environment for using _Jupyter Notebooks_, and mor
 
 :::{.fragment}
 :partly_sunny: **_JupyterHub_**:
-_JupyterLab_ in the cloud, **on demand**.
+_JupyterLabs_ managed in the cloud, **on demand**.
 :::
 
 
 :::{.notes}
-Hopefully I'm not repeating too much from previous talks:
+Hopefully I'm not repeating too much from previous talks. I'll go through this quickly:
 
 :memo: _Jupyter Notebook_:
 Interactive computing file format. You can view and edit notebooks with various tools
@@ -332,8 +331,8 @@ desktop-like tools such as file browser, terminal, package managers, image previ
 and tabular data editors.
 
 :partly_sunny: **_JupyterHub_**:
-_JupyterLab_ deployed in the cloud so users can create a _JupyterLab_ on demand with no
-prior knowledge.
+A system for managing _JupyterLabs_ in the cloud so users can create a _JupyterLab_ on
+demand with no prior knowledge.
 :::
 
 
@@ -380,8 +379,8 @@ Now let's look at a quick demo of the GIS experience we set up for our workshop.
 * You can use any other QGIS analysis or processing features with this setup. This is
   just to share how smooth and familiar the desktop experience feels in the cloud!
 
-If you want technical detail on the infrastructure, check out our _Jupyter Blog_ post
-and engage with CryoCloud and 2i2c on GitHub! QR code on the last slide.
+If you want technical detail on the infrastructure, you can check out our _Jupyter Blog_
+post and engage with CryoCloud and 2i2c on GitHub! QR code on the last slide.
 :::
 
 
@@ -417,15 +416,15 @@ Because of this, collaborating with an existing community was essential if we wa
 pursue this strategy.
 
 We were fortunate to have established connections with _CryoCloud_ to help us get
-started, but many communities in this space are eager for collaborators. We benefitted
-from this arrangement, and we also brought value to all future users of the hub by
-making QGIS and QGreenland readily available, and we helped grow the community by
-onboarding our learners as new users.
+started, but many communities in this space are eager for collaborators. This
+arrangement saved our team lots of money, and we also provided value to CryoCloud: all
+future users of the hub will have ready access to QGIS and QGreenland, and the
+_CryoCloud_ community grew because we onboarded our learners as new users.
 
 _Advance_
 
 If you're looking to run a workshop, consider an existing community to collaborate with,
-like CryoCloud! Sign up by following the QR code at the end.
+like _CryoCloud_! Sign up by following the QR code at the end.
 
 2i2c publishes a list of all the JupyterHubs they operate. That's another great place to
 find collaborators.
