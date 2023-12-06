@@ -381,6 +381,9 @@ Now let's look at a quick demo of the GIS experience we set up for our workshop.
 
 If you want technical detail on the infrastructure, you can check out our _Jupyter Blog_
 post and engage with CryoCloud and 2i2c on GitHub! QR code on the last slide.
+
+_IMPORTANT: When demo is done, click the fullscreen toggle button. DO NOT press escape
+or F11._
 :::
 
 
