@@ -477,13 +477,13 @@ Discussions**](https://github.com/nsidc/qgreenland/discussions/)!
 
 
 :::{.notes}
-I'm excited to talk with you!
+I'm excited to talk with you and hear your questions!
 
-If you follow the QR code, it will take you to the website for this presentation. A copy
-of the slides, information about the authors of this talk, and more are there.
+If you follow the QR code, it will take you to the website for this presentation.
 
-You'll see a collection of links, including on to join us on GitHub Discussions, and
-another to join CryoCloud.
+There, you'll see a collection of links, including: join us on GitHub Discussions, get
+started with CryoCloud, download QGreenland, or learn more about the authors of this
+talk.
 :::
 
 
