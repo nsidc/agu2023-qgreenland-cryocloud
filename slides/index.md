@@ -1,6 +1,9 @@
 ---
 title: "🇬🇱 QGreenland &<br/>🌨️ CryoCloud"
 subtitle: "An open GIS collaboration for education and research"
+title-slide-attributes:
+  data-notes: |
+    Welcome to our talk: _read slide_
 ---
 
 
@@ -13,13 +16,14 @@ subtitle: "An open GIS collaboration for education and research"
 * **How you can do it to**: Check out [**CryoCloud**](https://cryointhecloud.com)!
 
 :::{.notes}
-Technical training is hard. Technical training about Earth science data is especially
-hard, and often requires a complex software environment.
+In this presentation, we're going to talk about a community problem: Technical training
+about Earth science data and GIS is difficult, and often requires a complex software
+environment for learners.
 
 Teaching on a JupyterHub enables learners and instructors to focus more of their time on
 learning and less of it on troubleshooting.
 
-This could be an option for your next workshop!
+We think this could be a good option for your next workshop!
 :::
 
 
@@ -62,19 +66,18 @@ This could be an option for your next workshop!
 
 
 :::{.notes}
-I'm Matt Fisher:
+I'm Matt Fisher, and this is the QGreenland and CryoCloud team that authored this talk.
 
-* Mid-career software developer
-* Working at NSIDC
+* Software developer for the last 15 years, currently at NSIDC
 * Author, with Trey Stafford, of the QGreenland software
 * Instructor, with Trey Stafford and Alyse Thurber, of QGreenland Researcher Workshop
-  this year. More on that soon! At the time, both Trey and myself were new to developing
-  technical training and acting as instructor, so we learned a lot as we went.
+  this year. More on that soon!
 
 If anything in this talk goes by too quickly, there will be a QR code at the final slide
-linking to the webpage for this presentation. There you can find a copy of the slides
-(including bonus slides), learn more about authors of this talk, and find several links
-we think you might be interested in.
+linking to the webpage for this presentation where you can find a copy of the slides and
+more on the authors.
+
+_TODO: Consider omitting last names in speaker notes._
 :::
 
 
@@ -99,12 +102,13 @@ we think you might be interested in.
 
 
 :::{.notes}
-_Read the text._
+An open-source, **Greenland**-focused, interdisciplinary data package and GIS environment
+for research, learning, and decision-making.
 
-Community education and outreach, and therefore workshops, are important parts of our
-grant-funded activities.
+QGreenland is built for online or offline use, for example in remote field work.
 
-_TODO: Talk about how we're going in to this with little experience?_
+Community education and outreach are important parts of our grant-funded activities, so
+we've run several workshops over the last 3 years.
 :::
 
 
@@ -115,18 +119,18 @@ Technical training is hard!
 :::{.notes}
 Planning and administering technical training is hard.
 
-We need to consider your topic carefully, and make sure it's sized right for the time
+We need to consider our topic carefully, and make sure it's sized right for the time
 you have.
 
 We need to build up knowledge in the correct order.
 
 We need to design exercises that will help learners remember their new knowledge.
 
-We need to figure out how breakout rooms in Zoom work.
+We need to figure out how breakout rooms in Zoom work even though we thought we knew.
 
 On top of these things, we need to worry about how learners will set up technical
-requirements. For our workshop, do we need loaner laptops? Do we need a Mac expert and a
-Windows expert on the teaching team?
+requirements. Question like: For our workshop, do we need loaner laptops? Do we need a
+Mac expert and a Windows expert on the teaching team for technical support?
 :::
 
 
@@ -158,29 +162,33 @@ other important things we just talked about.
 :::
 
 
-## 🦻 Accessibility
+## :heart: Accessibility
 
-Hardware and operating systems are expensive.
+Hardware, (some) operating systems, and time are expensive.
 
-Accessibility is our responsibility!
+**Accessibility is our responsibility!**
 
 :::{.notes}
-Hardware is expensive, and operating systems are expensive.
+This is also an accessibility and inclusivity problem.
 
-Not everyone has the time to set up their user configuration and install dependencies
-for a workshop.
+Hardware, operating systems, time, and expertise are expensive.
 
-This is an accessibility barrier!
+Not everyone has a laptop with 32GB of RAM, or the free time to set up dependencies for
+a workshop.
 
-As course administrators, we have a responsibility to accessibility. The more accessible
-our workshop activities and materials are, the more people can learn from them.
+**This is a barrier to participation!** In our role as educators, we feel responsible to
+reduce that barrier.
 :::
 
 
 # [QGreenland]{.qgreenland-red} workshop
 
 :::{.notes}
-This slide is just a separator, skip through it.
+The QGreenland researcher workshop was a 3-day workshop that occurred earlier this year.
+
+Both Trey and myself are primarily software developers and newer to our role as
+educators, so we learned a lot as we went, especially from Alyse Thurber with CIRES
+Education & Outreach.
 :::
 
 
@@ -206,24 +214,26 @@ This slide is just a separator, skip through it.
 :::
 
 :::{.notes}
-We want to run a virtual workshop that's accessible to researchers around the world at
-all career levels.
+We want to run a virtual workshop for a diverse audience of researchers.
 
-Because we're teaching FAIR scientific data principles, we want our workshop to also
-embody those principles. We gave ourselves a star where we think we did particularly
-well.
+Because we want to **teach** FAIR scientific data principles, we want our workshop to
+also embody those principles. We gave ourselves a star where we think we did
+particularly well.
+
+* **A**: We provided a small stipend to support equitable participation. Anyone can
+  learn from our materials on our website, or contribute to our materials on GitHub.
+* **R**: We authored administrative documentation to support others re-running our
+  workshop.
+
+Our workshop requires users to be able to run QGreenland and install several other
+dependencies, including GDAL, and we wanted to avoid supporting all the possible
+pitfalls setting those up.
+
+_Extra_ (skip in main reading):
 
 * F: Our workshop is available as a website and as a public Git repository. We're doing
   outreach to share the materials and outcomes.
-* A: Anyone can contribute to or learn from our materials using open protocols
-  (HTTP/Git). We provided a small stipend to support equitable participation.
 * I: Our source materials are in a common authoring format: Markdown
-* R: We bundled documentation to support others re-running our workshop.
-
-Our workshop requires users to be able to run QGreenland and install several
-dependencies, including GDAL and optionally Git. It's important these are all at
-versions compatible with the materials. We really don't want this to be a distraction
-from learning!
 :::
 
 
@@ -248,18 +258,18 @@ from learning!
 
 
 :::{.notes}
-25 learners from all career stages, representing Germany, Poland, India, France, Canada,
-and the US completed our workshop. Our only technical prerequisites were Internet access
-and a browser.
+25 learners from around the world, and from all career stages joined and completed our
+workshop. Our only technical prerequisites were Internet access and a browser.
 
-NOTE: Internet access is no small barrier to participation, but our format enabled
-international participation without requiring travel, which we felt was important.
+_EXTRA NOTE: Internet access is no small barrier to participation, but our format enabled
+international participation without requiring travel, which we felt was important._
 
-We reduced the costs of setting up compute infrastructure from an expected $4500 to only
-$75 in cloud costs for a 3-day workshop.
+We reduced the costs of the computing infrastructure from an expected $4500 in setup
+cost to only $75 in cloud costs for a 3-day workshop by collaborating with the CryoCloud
+community.
 
-We produced open-source educational materials that will be useful even now that our
-workshop is complete.
+We produced open-source educational materials that we hope will be useful for a long
+time.
 
 And we did outreach activities like a guest post on the _Jupyter Blog_ to share what we
 learned.
@@ -269,7 +279,7 @@ materials, details about outcomes, and the _Jupyter Blog_ post.
 :::
 
 
-## How we got there
+## How we worked around system variance
 
 <p align="center">
 [![](https://book.cryointhecloud.com/_static/logo.png){height="300" fig-alt="CryoCloud logo"}](https://cryointhecloud.com)
@@ -279,12 +289,13 @@ materials, details about outcomes, and the _Jupyter Blog_ post.
 *CryoCloud _JupyterHub_ to the rescue!*
 
 :::{.notes}
-Colleagues with the _CryoCloud_ project run a _JupyterHub_ which aims to transition the
-NASA research community to cloud and open source work patterns, and this aligns well
-with our workshop goals.
+Colleagues with the _CryoCloud_ project, with the goal of transitioning the
+NASA research community to cloud and open source work patterns, operate a _JupyterHub_.
+Our participants did their work on this cloud platform instead of on their
+personal computers.
 
-The JupyterHub is operated by _International Interactive Computing Collaboration_, a
-fiscally-sponsored non-profit.
+The CryoCloud JupyterHub is operated by _International Interactive Computing
+Collaboration_, a fiscally-sponsored non-profit.
 :::
 
 
@@ -297,7 +308,7 @@ Interactive computing file format.
 
 :::{.fragment}
 :desktop_computer: _JupyterLab_:
-A comprehensive browser-based environment for using _Jupyter Notebooks_.
+A comprehensive browser-based environment for using _Jupyter Notebooks_, and more.
 :::
 
 :::{.fragment}
@@ -307,15 +318,17 @@ _JupyterLab_ in the cloud, **on demand**.
 
 
 :::{.notes}
+Hopefully I'm not repeating too much from previous talks:
+
 :memo: _Jupyter Notebook_:
-Interactive computing file format. May be most familiar of these three. Can be edited
-and viewed with various tools including the official Jupyter "notebook server" (`jupyter
-notebook`), VSCode, PyCharm, and Google Colab.
+Interactive computing file format. You can view and edit notebooks with various tools
+including the official Jupyter "notebook server" (`jupyter notebook`), VSCode, PyCharm,
+and Google Colab.
 
 :desktop_computer: _JupyterLab_:
-A comprehensive browser-based environment for using _Jupyter Notebooks_, including tools
-you're used to in your local computing environment, such as file browser, terminal,
-package managers, image previewers, and tabular data editors.
+A comprehensive browser-based environment for _Jupyter Notebooks_, including
+desktop-like tools such as file browser, terminal, package managers, image previewers,
+and tabular data editors.
 
 :partly_sunny: **_JupyterHub_**:
 _JupyterLab_ deployed in the cloud so users can create a _JupyterLab_ on demand with no
@@ -345,66 +358,79 @@ Now let's look at a quick demo of the GIS experience we set up for our workshop.
 </iframe>
 
 :::{.notes}
-* Look, we're in the browser, starting off on the AGU website, then navigating to
-  `CryoInTheCloud.com`
-* We'll navigate to their _JupyterHub_ link, click "login"
-* We have a few options for our cloud server that'll be provisioned. I want Python, and
-  1 CPU.
-* This loading part is in real-time
-* My JupyterLab cloud instance is ready!
+* Everything you see here is going to happen in the browser.
+* First, we're navigating to `CryoInTheCloud.com`.
+* We'll navigate to their _JupyterHub_ link and log in.
+* We can configure our personal cloud server. I want Python, and 1 CPU.
+* This loading part is in real-time. Some parts of this video are sped up, indicated
+  with fast-forward icons.
+* My JupyterLab is ready!
 * Just fast forwarding through pointing out a few cool things JupyterLab can do, like
-  previewing GeoJSON...
-* Let's open the desktop
-* Let's navigate to and open QGreenland
-* Let's just explore some stuff that looks interesting. I'm looking at the "Runoff"
+  previewing GeoJSON, a terminal...
+* Let's open the desktop.
+* Navigate to and open the QGreenland QGIS project.
+* Loading here is sped up to replicate the experience learners had in our workshop. This
+  demo was recorded on less optimized and less expensive configuration.
+* Let's explore some stuff that looks visually interesting. I'm looking at the "Runoff"
   variable from the RACMO climate model.
 * This looks cool, so I want to see satellite imagery of the area.
 * I found a neat looking feature, so I decided to measure it, and it's a bit over 4km
   across.
-* You can of course use any other QGIS analysis or processing features. This is just to
-  share how smooth the desktop experience feels in the cloud!
+* You can use any other QGIS analysis or processing features with this setup. This is
+  just to share how smooth and familiar the desktop experience feels in the cloud!
 
-This talk is more focused on how this helped us improve learning outcomes; if you want
-technical detail on this subject, check out our _Jupyter Blog_ post! QR code on the last
-slide.
+If you want technical detail on the infrastructure, check out our _Jupyter Blog_ post
+and engage with CryoCloud and 2i2c on GitHub! QR code on the last slide.
 :::
 
 
 # 🫵  You can do this too!
 
 :::{.notes}
+We think you can also do this for your next workshop.
 :::
 
 
 ## :money_with_wings: Cost is still high, so...
 
+:::{.fragment}
 #### :handshake: Collaboration with an existing community was key!
+:::
 
+:::{.fragment}
 #### 🫵  And you can do this too.
 
 > :::{.nonincremental}
 > * [Sign up for CryoCloud](https://book.cryointhecloud.com/content/Getting_Started.html)
 > * [See a list of 2i2c JupyterHubs](https://infrastructure.2i2c.org/reference/hubs/)
 > :::
+:::
 
 :::{.notes}
 As you saw in a previous slide, setting up a cloud _JupyterHub_ with all the features
-you need for your workshop can be expensive. Because of this, collaborating with an
-existing community was essential if we wanted to pursue this strategy.
+you need for your workshop can be expensive.
+
+_Advance_
+
+Because of this, collaborating with an existing community was essential if we wanted to
+pursue this strategy.
 
 We were fortunate to have established connections with _CryoCloud_ to help us get
-started, but I think communities in this space are eager for collaborators. We brought
-value to all future users of the hub by making QGIS and QGreenland readily available,
-and we helped grow the community by onboarding our learners as new users.
+started, but many communities in this space are eager for collaborators. We benefitted
+from this arrangement, and we also brought value to all future users of the hub by
+making QGIS and QGreenland readily available, and we helped grow the community by
+onboarding our learners as new users.
+
+_Advance_
 
 If you're looking to run a workshop, consider an existing community to collaborate with,
-like CryoCloud!
+like CryoCloud! Sign up by following the QR code at the end.
 
-On our last slide, follow the QR code to find a link to a list of all 2i2c JupyterHubs,
-that's a great starting place! There appear to be around 70 running hubs.
+2i2c publishes a list of all the JupyterHubs they operate. That's another great place to
+find collaborators.
 
-If you're looking to fund these type of activities, consider doing it through operating
-a _JupyterHub_ community!
+_Extra: If you're looking to fund these type of activities, consider doing it through operating
+a_ JupyterHub _community!_
 :::
 
 
@@ -420,10 +446,10 @@ Also at AGU:
 :::{.notes}
 Thank you!
 
-There are some other sessions coming up that you might be interested listed on this
-slide. Again, the QR code at the end will take you to a website where you can find these
-slides in case you missed a session number. U24B-03 is coming up later today, the others
-are on Friday.
+There are some other presentations coming up that you might be interested listed on this
+slide. You'll be able to find these by following the QR code at the next slide, too.
+
+**U24B-03** is coming up later today, check it out!
 :::
 
 
@@ -450,7 +476,10 @@ Discussions**](https://github.com/nsidc/qgreenland/discussions/)!
 
 
 :::{.notes}
-If you follow the QR code, it'll take you to the website for this presentation.
+I'm excited to talk with you!
+
+If you follow the QR code, it will take you to the website for this presentation. A copy
+of the slides, information about the authors of this talk, and more are there.
 
 You'll see a collection of links, including on to join us on GitHub Discussions, and
 another to join CryoCloud.
