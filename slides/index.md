@@ -20,7 +20,8 @@ In this presentation, we're going to talk about a community problem: Technical t
 about Earth science data and GIS is difficult, and often requires a complex software
 environment for learners.
 
-Teaching on a JupyterHub enables learners and instructors to focus more of their time on
+After gaining some experience this year, we feel that teaching on a JupyterHub is part
+of the solution. This enables learners and instructors to focus more of their time on
 learning and less of it on troubleshooting.
 
 We think this could be a good option for your next workshop!
