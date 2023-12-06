@@ -71,7 +71,7 @@ I'm Matt Fisher, and this is the QGreenland and CryoCloud team that authored thi
 
 * Software developer for the last 15 years, currently at NSIDC
 * Over the last 4 years, Trey Stafford and I authored QGreenland, and
-* This year, we took on a new rol as Instructors, with Alyse Thurber, of QGreenland
+* This year, we took on a new role as Instructors, with Alyse Thurber, of the QGreenland
   Researcher Workshop. More on that in coming slides!
 
 If anything in this talk goes by too quickly, there will be a QR code at the final slide
