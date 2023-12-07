@@ -47,6 +47,8 @@ authors:
     orcid: "https://orcid.org/0000-0002-5510-0055"
     website: "https://github.com/trey-stafford"
 
+# TODO: Specify conference
+
 references:
   - type: "grant"
     title: "EarthCube Data Capabilities: QGreenland: Enabling Science through GIS"
