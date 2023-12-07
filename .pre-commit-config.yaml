@@ -12,9 +12,9 @@ repos:
       - id: "check-vcs-permalinks"
       - id: "check-yaml"
       - id: "end-of-file-fixer"
-        exclude: "_assets/*"
+        exclude: "^_assets/.*$"
       - id: "trailing-whitespace"
-        exclude: "_assets/*"
+        exclude: "^_assets/.*$"
 
   - repo: "https://github.com/codespell-project/codespell"
     rev: "v2.2.4"
