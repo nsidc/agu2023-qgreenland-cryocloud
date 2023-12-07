@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/721712096.svg)](https://zenodo.org/doi/10.5281/zenodo.10288841)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/nsidc/agu2023-qgreenland-cryocloud/main.svg)](https://results.pre-commit.ci/latest/github/nsidc/agu2023-qgreenland-cryocloud/main)
 
 
