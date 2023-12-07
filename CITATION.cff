@@ -9,7 +9,9 @@ contact:
     email: "qgreenland.info@gmail.com"
   - name: "The QGreenland community"
     website: "https://github.com/nsidc/qgreenland/discussions"
-license: ["MIT"]
+# TODO: When this issue is resolved, `license` can be a list again:
+#       https://github.com/zenodo/zenodo/issues/2515
+license: "MIT"
 keywords:
   - "education"
   - "cloud"
