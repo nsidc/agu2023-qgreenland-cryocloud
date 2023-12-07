@@ -3,15 +3,6 @@ message: "Please cite this software using these metadata."
 
 title: "AGU2023 C22A-07: QGreenland & CryoCloud"
 license: ["MIT"]
-keywords:
-  - "education"
-  - "cloud"
-  - "open science"
-  - "GIS"
-  - "QGIS"
-  - "Greenland"
-  - "QGreenland"
-  - "CryoCloud"
 
 url: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
 repository-code: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
