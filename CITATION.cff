@@ -47,6 +47,14 @@ authors:
 
 references:
   - type: "grant"
-    intitution:
+    title: "EarthCube Data Capabilities: QGreenland: Enabling Science through GIS"
+    institution:
       name: "National Science Foundation"
     number: "1928393"
+    # TODO: Is there a better way to represent funding? Should we switch to
+    # CodeMeta and generate CITATION.cff from it? The authors field became
+    # "required" recently.
+    authors:
+      - family-names: "Moon"
+        given-names: "Twila"
+        orcid: "https://orcid.org/0000-0003-0968-7008"
