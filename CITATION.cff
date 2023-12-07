@@ -2,13 +2,6 @@ cff-version: 1.2.0
 message: "Please cite this software using these metadata."
 
 title: "AGU2023 C22A-07: QGreenland & CryoCloud"
-# doi: "TODO"
-abstract: "A presentation at AGU2023: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1365725"
-contact:
-  - name: "The QGreenland team"
-    email: "qgreenland.info@gmail.com"
-  - name: "The QGreenland community"
-    website: "https://github.com/nsidc/qgreenland/discussions"
 license: ["MIT"]
 keywords:
   - "education"
@@ -23,38 +16,9 @@ keywords:
 url: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
 repository-code: "https://github.com/nsidc/agu2023-qgreenland-cryocloud"
 
-version: "1.0.0"
+version: "0.0.1"
 date-released: "2023-12-07"
 
 authors:
   - family-names: "Fisher"
     given-names: "Matt"
-    orcid: "https://orcid.org/0000-0003-3260-5445"
-    website: "https://github.com/mfisher87"
-  - family-names: "Moon"
-    given-names: "Twila"
-    orcid: "https://orcid.org/0000-0003-0968-7008"
-  - family-names: "Thurber"
-    given-names: "Alyse"
-    orcid: "https://orcid.org/0009-0003-2026-0002"
-  - family-names: "Snow"
-    given-names: "Tasha"
-    orcid: "https://orcid.org/0000-0001-5697-5470"
-  - family-names: "Stafford"
-    given-names: "Trey"
-    orcid: "https://orcid.org/0000-0002-5510-0055"
-    website: "https://github.com/trey-stafford"
-
-references:
-  - type: "grant"
-    title: "EarthCube Data Capabilities: QGreenland: Enabling Science through GIS"
-    institution:
-      name: "National Science Foundation"
-    number: "1928393"
-    # TODO: Is there a better way to represent funding? Should we switch to
-    # CodeMeta and generate CITATION.cff from it? The authors field became
-    # "required" recently.
-    authors:
-      - family-names: "Moon"
-        given-names: "Twila"
-        orcid: "https://orcid.org/0000-0003-0968-7008"
