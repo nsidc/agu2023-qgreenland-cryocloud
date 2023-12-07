@@ -1,9 +1,12 @@
 cff-version: 1.2.0
-message: "Please cite this software using these metadata."
+message: "Please cite this presentation using these metadata."
 
 title: "AGU2023 C22A-07: QGreenland & CryoCloud"
-doi: "10.5281/zenodo.10288841"
+# TODO: https://github.com/citation-file-format/citation-file-format/issues/498
+# type: "presentation"
 abstract: "A presentation at AGU2023: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1365725"
+doi: "10.5281/zenodo.10288841"
+
 contact:
   - name: "The QGreenland team"
     email: "qgreenland.info@gmail.com"
