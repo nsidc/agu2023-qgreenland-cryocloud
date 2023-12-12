@@ -30,7 +30,7 @@ and
 ### Find us on GitHub and elsewhere
 
 * [Trey Stafford (GitHub)](https://github.com/trey-stafford)
-* [Matt Fisher (GitHub)](https://github.com/mfisher87)
+* [Matt Fisher](https://mfisher87.github.io) | [GitHub](https://github.com/mfisher87)
 * [Twila Moon](https://nsidc.org/about/about-nsidc/what-we-do/our-people/twila_moon)
 * [Tasha Snow](https://geophysics.mines.edu/project/tasha-snow/)
 * [Alyse Thurber](https://cires.colorado.edu/outreach/)
