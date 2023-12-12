@@ -1,5 +1,5 @@
 <p align="center">
-  [![](/_assets/qgreenland_logo_with_text.svg){height="150" fig-alt="QGreenland Logo"}](https://qgreenland.org)
+  [![](/_assets/qgreenland_logo_with_text.png){height="150" fig-alt="QGreenland Logo"}](https://qgreenland.org)
   [![](https://book.cryointhecloud.com/_static/logo.png){height="150" fig-alt="CryoCloud logo"}](https://cryointhecloud.com)
   <a href="https://nsidc.org">
     <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" height="150" />
