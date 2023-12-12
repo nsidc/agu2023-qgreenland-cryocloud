@@ -10,13 +10,20 @@ title: "References"
 :bangbang: First, check out the
 [QGreenland & CryoCloud Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)!
 
+We also welcome you to
+[Sign up for CryoCloud](https://book.cryointhecloud.com/content/Getting_Started.html)
+and
+[chat with us on GitHub Discussions](https://github.com/nsidc/qgreenland/discussions)!
+
 * [QGreenland 2023 Researcher Workshop](https://qgreenland-workshop-2023-researcher.github.io/)
   | [source](https://github.com/qgreenland-workshop-2023-researcher/qgreenland-workshop-2023-researcher.github.io)
     * [Workshop outcomes](https://qgreenland-workshop-2023-researcher.github.io/outcomes/)
     * [Workshop open-source software](https://qgreenland-workshop-2023-researcher.github.io/content/built-with-open-source.html)
 * [CryoCloud official site](https://cryointhecloud.com/): Sign up!
+    * [Getting started](https://book.cryointhecloud.com/content/Getting_Started.html)
 * [QGreenland official site](https://qgreenland.org)
     * [QGreenland Python source](https://github.com/nsidc/qgreenland)
+    * [QGreenland GitHub Discussions](https://github.com/nsidc/qgreenland/discussions)
 * [List of 2i2c JupyterHub communities](https://infrastructure.2i2c.org/reference/hubs/)
 
 
